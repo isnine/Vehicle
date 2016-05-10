@@ -12,6 +12,7 @@ import android.widget.Toast;
 
 import com.example.vehicle_networking.R;
 
+import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.listener.SaveListener;
 import name.wxz.modle.Person;
 import name.wxz.modle.User;
@@ -67,21 +68,19 @@ public class RegisterActivity extends Activity {
             return;
         }
 
-        User p2 = new User();
-        p2.setUsername(username);
-        p2.setPassword(password);
-
-        p2.signUp(this, new SaveListener() {
+        Person bu = new Person();
+        bu.setUsername(username);
+        bu.setPassword(password);
+        bu.signUp(this, new SaveListener() {
             @Override
             public void onSuccess() {
-                // TODO Auto-generated method stub
-                toast("成功");
+                toast("注册成功:");
+                //通过BmobUser.getCurrentUser(context)方法获取登录成功后的本地用户信息
             }
-
             @Override
             public void onFailure(int code, String msg) {
                 // TODO Auto-generated method stub
-                toast("失败");
+                toast("注册失败:"+msg);
             }
         });
     }

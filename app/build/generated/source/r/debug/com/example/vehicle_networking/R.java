@@ -62,8 +62,8 @@ public final class R {
         public static final int login_logo=0x7f02000c;
     }
     public static final class id {
-        public static final int action_example=0x7f09000c;
-        public static final int action_settings=0x7f09000b;
+        public static final int action_example=0x7f09000b;
+        public static final int action_settings=0x7f09000a;
         public static final int btn_login=0x7f090003;
         public static final int btn_register=0x7f090004;
         public static final int container=0x7f090006;
@@ -74,7 +74,6 @@ public final class R {
         public static final int iv_icon=0x7f090000;
         public static final int navigation_drawer=0x7f090007;
         public static final int section_label=0x7f090009;
-        public static final int textView1=0x7f09000a;
     }
     public static final class layout {
         public static final int activity_login=0x7f030000;

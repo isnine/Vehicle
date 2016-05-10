@@ -11,7 +11,14 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 61,
+                        "endOffset": 169
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 206
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 574,
+                        "endColumn": 41,
+                        "endOffset": 611
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 55,
+                        "endOffset": 401
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 317
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 54,
+                        "endOffset": 457
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 373
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 55,
+                        "endOffset": 514
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 425
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 51,
+                        "endOffset": 287
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 489
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 63,
+                        "endOffset": 234
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 532
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1302,
+                        "endColumn": 42,
+                        "endOffset": 1340
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 582
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 49,
+                        "endOffset": 933
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 641
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 58,
+                        "endOffset": 993
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 699
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 999,
+                        "endColumn": 57,
+                        "endOffset": 1052
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 758
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 58,
+                        "endOffset": 691
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 45,
+                        "endOffset": 1296
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 861
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 56,
+                        "endOffset": 749
+                    }
                 }
             },
             {
@@ -191,7 +296,14 @@
                     "endOffset": 919
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 57,
+                        "endOffset": 808
+                    }
                 }
             },
             {
@@ -203,7 +315,14 @@
                     "endOffset": 963
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1455,
+                        "endColumn": 43,
+                        "endOffset": 1494
+                    }
                 }
             },
             {
@@ -215,7 +334,14 @@
                     "endOffset": 1016
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 52,
+                        "endOffset": 1400
+                    }
                 }
             },
             {
@@ -227,7 +353,14 @@
                     "endOffset": 1062
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 45,
+                        "endOffset": 1447
+                    }
                 }
             },
             {
@@ -239,7 +372,14 @@
                     "endOffset": 1115
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 52,
+                        "endOffset": 568
+                    }
                 }
             },
             {
@@ -251,7 +391,14 @@
                     "endOffset": 1161
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 45,
+                        "endOffset": 1193
+                    }
                 }
             },
             {
@@ -263,7 +410,14 @@
                     "endOffset": 1215
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 53,
+                        "endOffset": 882
+                    }
                 }
             },
             {
@@ -275,7 +429,14 @@
                     "endOffset": 1271
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 55,
+                        "endOffset": 344
+                    }
                 }
             },
             {
@@ -287,7 +448,14 @@
                     "endOffset": 1315
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 43,
+                        "endOffset": 1097
+                    }
                 }
             },
             {
@@ -299,7 +467,14 @@
                     "endOffset": 1364
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 48,
+                        "endOffset": 1249
+                    }
                 }
             },
             {
@@ -311,7 +486,14 @@
                     "endOffset": 1412
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 47,
+                        "endOffset": 1146
+                    }
                 }
             },
             {
@@ -323,7 +505,14 @@
                     "endOffset": 1470
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -335,7 +524,14 @@
                     "endOffset": 1526
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
                 }
             },
             {
@@ -347,7 +543,14 @@
                     "endOffset": 1583
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 97,
+                        "startOffset": 492,
+                        "endColumn": 149,
+                        "endOffset": 544
+                    }
                 }
             },
             {
@@ -359,7 +562,14 @@
                     "endOffset": 1639
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 55,
+                        "endOffset": 450
+                    }
                 }
             },
             {
@@ -390,7 +600,14 @@
                     "endOffset": 1735
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 55,
+                        "startOffset": 450,
+                        "endColumn": 97,
+                        "endOffset": 492
+                    }
                 }
             },
             {
@@ -402,7 +619,14 @@
                     "endOffset": 1782
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 46,
+                        "endOffset": 559
+                    }
                 }
             },
             {
@@ -414,7 +638,14 @@
                     "endOffset": 1835
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 52,
+                        "endOffset": 613
+                    }
                 }
             },
             {
@@ -426,7 +657,14 @@
                     "endOffset": 1876
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 40,
+                        "endOffset": 95
+                    }
                 }
             },
             {
@@ -438,7 +676,14 @@
                     "endOffset": 1913
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 165,
+                        "startOffset": 726,
+                        "endColumn": 197,
+                        "endOffset": 758
+                    }
                 }
             },
             {
@@ -507,7 +752,14 @@
                     "endOffset": 2114
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 109,
+                        "startOffset": 670,
+                        "endColumn": 165,
+                        "endOffset": 726
+                    }
                 }
             },
             {
@@ -538,7 +790,14 @@
                     "endOffset": 2212
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 52,
+                        "startOffset": 613,
+                        "endColumn": 109,
+                        "endOffset": 670
+                    }
                 }
             },
             {
@@ -550,7 +809,14 @@
                     "endOffset": 2288
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 75,
+                        "endOffset": 511
+                    }
                 }
             },
             {
@@ -562,7 +828,14 @@
                     "endOffset": 2362
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 73,
+                        "endOffset": 434
+                    }
                 }
             },
             {
@@ -593,7 +866,14 @@
                     "endOffset": 2451
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 197,
+                        "startOffset": 758,
+                        "endColumn": 241,
+                        "endOffset": 802
+                    }
                 }
             },
             {
@@ -605,7 +885,14 @@
                     "endOffset": 2500
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 241,
+                        "startOffset": 802,
+                        "endColumn": 285,
+                        "endOffset": 846
+                    }
                 }
             },
             {
@@ -617,7 +904,14 @@
                     "endOffset": 2546
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 45,
+                        "endOffset": 142
+                    }
                 }
             },
             {
@@ -629,7 +923,14 @@
                     "endOffset": 2592
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 45,
+                        "endOffset": 189
+                    }
                 }
             },
             {
@@ -641,7 +942,14 @@
                     "endOffset": 2638
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 45,
+                        "endOffset": 236
+                    }
                 }
             },
             {
@@ -653,7 +961,14 @@
                     "endOffset": 2684
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 45,
+                        "startOffset": 236,
+                        "endColumn": 86,
+                        "endOffset": 277
+                    }
                 }
             },
             {
@@ -665,7 +980,14 @@
                     "endOffset": 2730
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 86,
+                        "startOffset": 277,
+                        "endColumn": 127,
+                        "endOffset": 318
+                    }
                 }
             },
             {
@@ -677,7 +999,14 @@
                     "endOffset": 2776
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 127,
+                        "startOffset": 318,
+                        "endColumn": 168,
+                        "endOffset": 359
+                    }
                 }
             },
             {
@@ -690,7 +1019,15 @@
                     "endOffset": 3067
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
                 }
             },
             {
@@ -703,7 +1040,15 @@
                     "endOffset": 3227
                 },
                 "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
                 }
             },
             {

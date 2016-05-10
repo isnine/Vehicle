@@ -41,17 +41,17 @@ public class LoginActivity extends Activity{
 
             @Override
             public void onClick(View v) {
-                String name = Username.getText().toString();
+                String username = Username.getText().toString();
                 String password = Password.getText().toString();
 
-                if (name.equals("") || password.equals("")) {
+                if (username.equals("") || password.equals("")) {
                     toast("请输入账号和密码");
                 }
                 else {
-                    User p2 = new User();
-                    p2.setUsername(name);
-                    p2.setPassword(password);
-                    p2.login(mContext, new SaveListener() {
+                    Person bu = new Person();
+                    bu.setUsername(username);
+                    bu.setPassword(password);
+                    bu.login(mContext, new SaveListener() {
                         @Override
                         public void onSuccess() {
                             // TODO Auto-generated method stub
@@ -63,7 +63,7 @@ public class LoginActivity extends Activity{
                         @Override
                         public void onFailure(int code, String msg) {
                             // TODO Auto-generated method stub
-                            toast("登录失败");
+                            toast("密码错误");
                         }
                     });
                 }

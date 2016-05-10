@@ -1,6 +1,7 @@
 package name.wxz.modle;
 
 import cn.bmob.v3.BmobObject;
+import cn.bmob.v3.BmobUser;
 
 /**
  * Created by Nikcn on 2016/5/10.
@@ -8,9 +9,11 @@ import cn.bmob.v3.BmobObject;
  * String Name
  * String address
  */
-public class Person extends BmobObject {
+public class Person extends BmobUser {
     private String name;
-    private String address;
+    private String number;
+    private String oilclass;
+    private String oil;
 
     public String getName() {
         return name;
@@ -18,10 +21,25 @@ public class Person extends BmobObject {
     public void setName(String name) {
         this.name = name;
     }
-    public String getAddress() {
-        return address;
+
+    public String getNumber() {
+        return number;
     }
-    public void setAddress(String address) {
-        this.address = address;
+    public void setNumber(String number) {
+        this.number =number;
+    }
+
+    public String getOilclass() {
+        return oilclass;
+    }
+    public void setOilclass(String oilclass) {
+        this.oilclass =oilclass;
+    }
+
+    public String getOil() {
+        return oil;
+    }
+    public void setOil(String oil) {
+        this.oil =oil;
     }
 }
