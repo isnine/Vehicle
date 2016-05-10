@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fba67d7ddc0931a17a41b0c98d8bf0f34e564fc4">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3326c09c44a9f9c564e578c187dfc4dc0573bcf6.jar" />
+    </item>
+
+</items>

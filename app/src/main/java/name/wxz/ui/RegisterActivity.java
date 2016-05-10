@@ -1,6 +1,7 @@
 package name.wxz.ui;
 
 import android.app.Activity;
+import android.content.Context;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
@@ -11,15 +12,27 @@ import android.widget.Toast;
 
 import com.example.vehicle_networking.R;
 
+import cn.bmob.v3.listener.SaveListener;
+import name.wxz.modle.Person;
+import name.wxz.modle.User;
+
 /**
  * Created by Nikcn on 2016/5/10.
  */
 public class RegisterActivity extends Activity {
+
+    @SuppressWarnings("unused")
     private Button Register;
     private EditText Username;
     private EditText Password;
     private EditText Password2;
+    private Context mContext = this;
+    private static final String TAG = "RegisterActivity";
 
+    private String username = null;
+    private String password = null;
+    private String comfirmPsd = null;
+    private String phone = null;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,12 +48,12 @@ public class RegisterActivity extends Activity {
     }
 
     private void register() {
-     		String name = Username.getText().toString();
-     		String password = Password.getText().toString();
-     		String pwd_again = Password2.getText().toString();
+     		username = Username.getText().toString();
+     		password = Password.getText().toString();
+            comfirmPsd = Password2.getText().toString();
 
 
-        if (TextUtils.isEmpty(name)) {
+        if (TextUtils.isEmpty(username)) {
             toast("用户名不能为空");
             return;
         }
@@ -49,12 +62,28 @@ public class RegisterActivity extends Activity {
             toast("密码不能为空");
             return;
         }
-        if (!pwd_again.equals(password)) {
+        if (!comfirmPsd.equals(password)) {
             toast("确认密码与密码不同");
             return;
         }
 
+        User p2 = new User();
+        p2.setUsername(username);
+        p2.setPassword(password);
 
+        p2.signUp(this, new SaveListener() {
+            @Override
+            public void onSuccess() {
+                // TODO Auto-generated method stub
+                toast("成功");
+            }
+
+            @Override
+            public void onFailure(int code, String msg) {
+                // TODO Auto-generated method stub
+                toast("失败");
+            }
+        });
     }
 
     private void init() {

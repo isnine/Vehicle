@@ -8,20 +8,25 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.vehicle_networking.R;
+import com.squareup.okhttp.internal.Util;
 
 import cn.bmob.v3.Bmob;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.listener.GetListener;
 import cn.bmob.v3.listener.SaveListener;
 import name.wxz.modle.Person;
+import name.wxz.modle.User;
 
 public class LoginActivity extends Activity{
     Button Login;
     TextView  Register;
+    private EditText Username;
+    private EditText Password;
     private Context mContext = this;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,32 +41,37 @@ public class LoginActivity extends Activity{
 
             @Override
             public void onClick(View v) {
+                String name = Username.getText().toString();
+                String password = Password.getText().toString();
 
-                Intent intent=new Intent(LoginActivity.this,MainActivity.class);
-                startActivity(intent);
+                if (name.equals("") || password.equals("")) {
+                    toast("请输入账号和密码");
+                }
+                else {
+                    User p2 = new User();
+                    p2.setUsername(name);
+                    p2.setPassword(password);
+                    p2.login(mContext, new SaveListener() {
+                        @Override
+                        public void onSuccess() {
+                            // TODO Auto-generated method stub
+                            toast("登录成功");
+                            Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                            startActivity(intent);
+                        }
 
-
-/*                Person p2 = new Person();
-                p2.setName("2");
-                p2.setAddress("3");
-                p2.save(mContext, new SaveListener() {
-                    @Override
-                    public void onSuccess() {
-                        // TODO Auto-generated method stub
-                        toast("成功");
-                    }
-
-                    @Override
-                    public void onFailure(int code, String msg) {
-                        // TODO Auto-generated method stub
-                        toast("失败");
-                    }
-                });  //保存数据*/
+                        @Override
+                        public void onFailure(int code, String msg) {
+                            // TODO Auto-generated method stub
+                            toast("登录失败");
+                        }
+                    });
+                }
             }
 
         });
 
-       Register.setOnClickListener(new OnClickListener() {
+        Register.setOnClickListener(new OnClickListener() {
 
             @Override
             public void onClick(View arg0) {
@@ -74,6 +84,9 @@ public class LoginActivity extends Activity{
     public void init(){
         Login=(Button)findViewById(R.id.btn_login);
         Register=(TextView)findViewById(R.id.btn_register);
+
+        Username = (EditText) findViewById(R.id.et_username);
+        Password = (EditText) findViewById(R.id.et_password);
     }
     public void toast(String toast) {
         Toast.makeText(this, toast, Toast.LENGTH_SHORT).show();
