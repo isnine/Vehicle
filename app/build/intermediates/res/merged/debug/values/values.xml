@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_action_bar_title_color">#2f2725</color>
+    <color name="base_actionbar_bg">#f5f5f5</color>
+    <color name="base_bg">#f4f6f6</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_gray">#9fa0a0</color>
+    <color name="base_color_text_white">#ffffff</color>
+    <color name="base_menu_left_bg">#393c44</color>
+    <color name="base_tab_indicator_text_color">#f82c22</color>
+    <color name="c_f98800">#ed4e23</color>
+    <color name="color_bottom_bg">#272a2e</color>
+    <color name="color_bottom_text_normal">#9da0a4</color>
+    <color name="color_bottom_text_press">#4f9ef6</color>
+    <color name="color_half_transparent">#b0000000</color>
+    <color name="color_theme">#489cfa</color>
+    <color name="color_transparent_bg">#80000000</color>
+    <color name="color_transparent_bg1">#e0000000</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="dialog_color_title">#f82c22</color>
+    <color name="guide_color">#898989</color>
+    <color name="home_item_color_bg">#f4f6f6</color>
+    <color name="msg_chat_bg">#eceff4</color>
+    <color name="msg_emote_divider">#ffa1a1a1</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="text_gray">#969696</color>
+    <color name="theme_bg_color">#f0f2f5</color>
+    <color name="transparent">#00000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="base_action_bar_height">48.0dip</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <string name="action_example">主界面</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">车联网</string>
+    <string name="login">登录</string>
+    <string name="login_password_hint">请输入密码…</string>
+    <string name="login_username_hint">请输入用户名…</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="register_txt1">还没有账号？</string>
+    <string name="register_txt2">立即注册 ></string>
+    <string name="title_section1">用户</string>
+    <string name="title_section2">加油</string>
+    <string name="title_section3">地图</string>
+    <string name="title_section4">维护</string>
+    <string name="title_section5">音乐</string>
+    <string name="title_section6">违章</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
