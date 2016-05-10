@@ -1,3 +1,0 @@
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\name\wxz\ui\LoginActivity$override.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\name\wxz\ui\LoginActivity$1$override.class

@@ -12,6 +12,18 @@
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
     },
     {
+        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_oil.xml",
+        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\activity_oil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_action_bar.xml",
+        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\include_action_bar.xml"
+    },
+    {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\activity_main.xml"
     }

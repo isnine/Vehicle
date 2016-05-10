@@ -30,15 +30,21 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="base_action_bar_height">48.0dip</dimen>
     <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="register_margin">10.0dp</dimen>
     <dimen name="text_size_large">18sp</dimen>
     <string name="action_example">主界面</string>
     <string name="action_settings">Settings</string>
     <string name="app_name">车联网</string>
     <string name="login">登录</string>
+    <string name="login_account">账号 </string>
+    <string name="login_email">确认密码 </string>
+    <string name="login_email_hint">请在此输入密码…</string>
     <string name="login_password_hint">请输入密码…</string>
+    <string name="login_pwd">密码 </string>
     <string name="login_username_hint">请输入用户名…</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="register">注册</string>
     <string name="register_txt1">还没有账号？</string>
     <string name="register_txt2">立即注册 ></string>
     <string name="title_section1">用户</string>
@@ -56,5 +62,24 @@
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Register_Edit">
+    <item name="android:layout_width">0dp</item>
+    <item name="android:layout_height">match_parent</item>
+    <item name="android:layout_weight">1.0</item>
+    <item name="android:layout_marginLeft">@dimen/register_margin</item>
+    <item name="android:background">@color/transparent</item>
+</style>
+    <style name="Register_Input">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/base_edit_input</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/base_action_bar_height</item>
+        <item name="android:layout_marginTop">@dimen/register_margin</item>
+        <item name="android:layout_marginLeft">@dimen/register_margin</item>
+        <item name="android:layout_marginRight">@dimen/register_margin</item>
+    </style>
+    <style name="Smile_TextView_Black">
+        <item name="android:textColor">@color/base_color_text_black</item>
     </style>
 </resources>

@@ -9,5 +9,5 @@
          https://developer.android.com/design/patterns/navigation-drawer.html
     -->
     <dimen name="navigation_drawer_width">240dp</dimen><dimen name="text_size_large">18sp</dimen><dimen name="base_action_bar_height">48.0dip</dimen>
-
+    <dimen name="register_margin">10.0dp</dimen>
 </resources>

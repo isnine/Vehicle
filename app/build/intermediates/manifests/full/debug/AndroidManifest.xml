@@ -30,6 +30,8 @@
             </intent-filter>
         </activity>
         <activity android:name="name.wxz.ui.MainActivity" />
+        <activity android:name="name.wxz.ui.RegisterActivity" />
+        <activity android:name="name.wxz.ui.OilActivity" />
     </application>
 
 </manifest>

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml
@@ -50,7 +50,7 @@ ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\Android
 	android:name
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:16:22-72
 application
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:18:5-35:19
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:18:5-37:19
 	android:label
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:21:9-41
 	android:allowBackup
@@ -76,6 +76,14 @@ ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\Android
 	android:name
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:29:27-74
 activity#name.wxz.ui.MainActivity
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:33:10-72
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:32:10-72
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:33:21-60
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:32:21-60
+activity#name.wxz.ui.RegisterActivity
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:34:9-75
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:34:20-63
+activity#name.wxz.ui.OilActivity
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:36:9-70
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:36:20-58
