@@ -9,484 +9,19 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e45b781-921e-4588-a95a-6f05c0457984" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/78919002998609/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/82794475424671/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/85613837587834/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/87467588101220/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/vehicle_networking/R$dimen$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/vehicle_networking/R$drawable$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/modle/User$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/LoginActivity$2$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/LoginActivity$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/MainActivity$PlaceholderFragment$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/OilActivity$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/RegisterActivity$1$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobChat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobChatManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobDownloadManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobNotifyManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobPlayManager$PlayerErrorListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobPlayManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobRecordManager$RecorderErrorListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobRecordManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/BmobUserManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/By.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/From.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/Hamlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/Juliet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/Romeo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/Tempest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/That.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/The.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/Though.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/V.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/What.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/acknowledge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/and.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/any.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/as.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/be.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/bean/BmobChatInstallation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/bean/BmobChatUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/bean/BmobInvitation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/bean/BmobMsg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/bean/BmobRecent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/call.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/config/BmobConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/config/BmobConstant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/darkness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/db/BmobDB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/db/DBConfig$DbUpdateListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/db/DBConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/db/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/g.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/h.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/in.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/DownloadListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/EventListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/MsgTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/MsgType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/OnPlayChangeListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/OnReceiveListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/OnRecordChangeListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/PlayControlListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/RecordControlListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/SwitchListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/inteface/UploadListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/is.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/j.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/k.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/l.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/m.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/madness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/method.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/mine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/n.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/name.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/o.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/of.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/other.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/poll/BmobPollService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/poll/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/poll/thing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/rose.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/s.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/smell.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/sweet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/t.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/BCountTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/BFindTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/BQuery$QueryType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/BQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/BRequest$Field.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/BRequest$Model.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/BRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/BTable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/task/QueryTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/there.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/thing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/util/BmobJsonUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/util/BmobLog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/util/BmobNetUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/util/BmobUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/we.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/which.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/word.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/would.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/im/yet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/PushReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/From.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/Hamlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/Tempest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/The.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/Though.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/V.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/What.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/acknowledge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/be.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/darkness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/in.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/is.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/madness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/method.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/mine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/of.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/s.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/t.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/there.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/thing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/a/yet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/acknowledge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/b/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/darkness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/a/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/a/of.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/a/thing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/From.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/PushService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/Tempest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/The.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/Though.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/V.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/acknowledge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/be.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/darkness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/is.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/madness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/method.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/mine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/of.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/there.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/thing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/lib/service/yet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/of.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/bmob/push/thing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/From.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/Hamlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/Request$Priority.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/Request.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/Tempest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/The.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/Though.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/V.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/What.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/From.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/Tempest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/The.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/This.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/Though.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/V.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/acknowledge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/darkness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/mine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/of.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/a/thing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/acknowledge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/be.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/darkness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/in.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/is.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/madness.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/method.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/mine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/of.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/t.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/there.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/thing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/BmobIM_V1.1.9beta_20150820.jar_enn16xcun5171ye7t4318alv1/cn/volley/yet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDErrorReport.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDGeofence$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDGeofence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDLocation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDLocation$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDLocation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDLocationListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDLocationStatusCodes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/BDNotifyListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/CommonEncrypt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/GeofenceClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/GeofenceClient$OnAddBDGeofencesResultListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/GeofenceClient$OnGeofenceTriggerListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/GeofenceClient$OnRemoveBDGeofencesResultListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/GeofenceClient$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/GeofenceClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/Jni.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/LLSInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/LocationClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/LocationClient$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/LocationClient$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/LocationClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/LocationClientOption$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/LocationClientOption$LocationMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/LocationClientOption.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a/a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a/b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a0$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a0$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a0$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a0$c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a0$d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/a0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/aa.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ab$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ab.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ac.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ad$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ad$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ad$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ad$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ad$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ad.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ae.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/af.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ag$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ag$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ah$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ah$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ah.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ai$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ai$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ai.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/aj$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/aj$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/aj.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ak$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ak.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/al.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/am$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/am.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/an.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/aq.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ar$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ar$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ar$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/as.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/at.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/au$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/au$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/au$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/au$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/au$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/au$c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/au$d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/au.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/av.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/aw$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/aw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ax.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ay$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ay$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ay$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/ay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/az.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/b/a/a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/b/a/b$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/b/a/b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/b/a/c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/b/b/a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/b/b/b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/d$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/d$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/d$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/g.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/h.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/i.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/j.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/k$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/k.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/l$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/l$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/l$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/l$c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/l.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/m.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/n.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/o$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/o$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/o.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/p.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/q$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/q$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/q.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/r$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/r.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/s$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/s$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/s$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/s.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/t$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/t$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/t.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/u.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/v$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/v.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/w.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/x$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/x$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/x$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/x$c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/x.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/y$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/y.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/z$a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/z$b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/locSDK_4.2.jar_8mlw7rwfwet4mct4ad84ei6m5/com/baidu/location/z.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/Compat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/IPhotoView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoViewAttacher$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoViewAttacher$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoViewAttacher$AnimatedZoomRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoViewAttacher$FlingRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoViewAttacher$OnMatrixChangedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoViewAttacher$OnPhotoTapListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoViewAttacher$OnViewTapListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/PhotoViewAttacher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/gestures/CupcakeGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/gestures/EclairGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/gestures/FroyoGestureDetector$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/gestures/FroyoGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/gestures/GestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/gestures/OnGestureListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/gestures/VersionedGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/log/LogManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/log/Logger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/log/LoggerDefault.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/scrollerproxy/GingerScroller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/scrollerproxy/IcsScroller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/scrollerproxy/PreGingerScroller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/photoview-library-1.2.2.jar_da36z4ufic61clljfuppcq5ig/uk/co/senab/photoview/scrollerproxy/ScrollerProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/BaseDiscCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/DiscCacheAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/LimitedDiscCache$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/LimitedDiscCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/impl/FileCountLimitedDiscCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/impl/LimitedAgeDiscCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/impl/TotalSizeLimitedDiscCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/impl/UnlimitedDiscCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/naming/FileNameGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/naming/HashCodeFileNameGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/disc/naming/Md5FileNameGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/BaseMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/LimitedMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/MemoryCacheAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/impl/FIFOLimitedMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/impl/FuzzyKeyMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/impl/LRULimitedMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/impl/LargestLimitedMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/impl/LimitedAgeMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/impl/LruMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/impl/UsingFreqLimitedMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/cache/memory/impl/WeakMemoryCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/DefaultConfigurationFactory$DefaultThreadFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/DefaultConfigurationFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/DisplayBitmapTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/DisplayImageOptions$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/DisplayImageOptions$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/DisplayImageOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/ImageLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/ImageLoaderConfiguration$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/ImageLoaderConfiguration$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/ImageLoaderConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/ImageLoaderEngine$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/ImageLoaderEngine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/ImageLoadingInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask$TaskCancelledException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/ProcessAndDisplayImageTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/ContentLengthInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/FailReason$FailType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/FailReason.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/FlushedInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/ImageScaleType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/ImageSize.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/LoadedFrom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/QueueProcessingType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/ViewScaleType$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/ViewScaleType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/BlockingDeque.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/Deque.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/LIFOLinkedBlockingDeque.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$AbstractItr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$DescendingItr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$Itr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/decode/BaseImageDecoder$ExifInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/decode/BaseImageDecoder$ImageFileInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/decode/BaseImageDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/decode/ImageDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/decode/ImageDecodingInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/display/BitmapDisplayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/display/FadeInBitmapDisplayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/display/RoundedBitmapDisplayer$RoundedDrawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/display/RoundedBitmapDisplayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/display/RoundedVignetteBitmapDisplayer$RoundedVignetteDrawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/display/RoundedVignetteBitmapDisplayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/display/SimpleBitmapDisplayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/BaseImageDownloader$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/BaseImageDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/HttpClientImageDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/ImageDownloader$Scheme.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/ImageDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/NetworkDeniedImageDownloader$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/NetworkDeniedImageDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/SlowNetworkImageDownloader$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/download/SlowNetworkImageDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/imageaware/ImageAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/imageaware/ImageNonViewAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/imageaware/ImageViewAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/listener/ImageLoadingListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/listener/ImageLoadingProgressListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/listener/PauseOnScrollListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/listener/SimpleImageLoadingListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/listener/SyncImageLoadingListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/core/process/BitmapProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/DiscCacheUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/ImageSizeUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/ImageSizeUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/IoUtils$CopyListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/IoUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/L.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/MemoryCacheUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/MemoryCacheUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/universal-image-loader-1.9.2_sources.jar_2hojkkkgtdcy1at35tj62oy44/com/nostra13/universalimageloader/utils/StorageUtils.class" afterPath="" />
+    <list default="true" id="5e45b781-921e-4588-a95a-6f05c0457984" name="默认的" comment="车联网注册模块">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/back_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/title_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/name/wxz/modle/TitleLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_set.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/title.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/89867520640186/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/90120042521545/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/90425341265056/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/modle/Person$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/LoginActivity$1$1$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/LoginActivity$1$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/RegisterActivity$2$override.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
@@ -496,31 +31,39 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/vehicle_networking/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/modle/Person.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/modle/Person.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/LoginActivity$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/LoginActivity$1$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/LoginActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/LoginActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/LoginActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/LoginActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/LoginActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/MainActivity$PlaceholderFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/MainActivity$PlaceholderFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/MainActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/NavigationDrawerFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/NavigationDrawerFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/OilActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/OilActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/RegisterActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/RegisterActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/RegisterActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/RegisterActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/RegisterActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/name/wxz/ui/RegisterActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/vehicle_networking/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/modle/Person.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/modle/Person.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/LoginActivity$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/LoginActivity$1$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/LoginActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/LoginActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/LoginActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/LoginActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/LoginActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/MainActivity$PlaceholderFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/MainActivity$PlaceholderFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/MainActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/NavigationDrawerFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/NavigationDrawerFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/OilActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/OilActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/RegisterActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/RegisterActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/RegisterActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/RegisterActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/RegisterActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/name/wxz/ui/RegisterActivity.class" />
@@ -536,42 +79,53 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/vehicle_networking/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/modle/Person.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/modle/Person.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/LoginActivity$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/LoginActivity$1$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/LoginActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/LoginActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/LoginActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/LoginActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/LoginActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/MainActivity$PlaceholderFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/MainActivity$PlaceholderFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/MainActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/NavigationDrawerFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/NavigationDrawerFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/OilActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/OilActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/RegisterActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/RegisterActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/RegisterActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/RegisterActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/RegisterActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/name/wxz/ui/RegisterActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/vehicle_networking/R$id$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/vehicle_networking/R$id$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/modle/Person$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/modle/Person$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/LoginActivity$1$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/LoginActivity$1$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/vehicle_networking/R$layout$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/vehicle_networking/R$layout$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/vehicle_networking/R$string$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/vehicle_networking/R$string$override.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/MainActivity$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/MainActivity$override.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/NavigationDrawerFragment$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/NavigationDrawerFragment$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/RegisterActivity$2$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/RegisterActivity$2$override.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/RegisterActivity$override.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/name/wxz/ui/RegisterActivity$override.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/vehicle_networking/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/vehicle_networking/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/reload-changes.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/reload-changes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_oil.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_oil.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/name/wxz/modle/Person.java" afterPath="$PROJECT_DIR$/app/src/main/java/name/wxz/modle/Person.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/LoginActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/LoginActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/RegisterActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/RegisterActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/NavigationDrawerFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/NavigationDrawerFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/OilActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/OilActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_oil.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_oil.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     </list>
     <ignored path="Vehicle_networking.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -592,122 +146,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/LoginActivity.java">
+      <file leaf-file-name="OilActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/OilActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_main.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_oil.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_oil.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5676101">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34887007">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
+          <provider selected="true" editor-type-id="android-designer">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.178572">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.275862">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegisterActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/RegisterActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="72" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/modle/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#126#153#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/modle/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_register.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -2278,15 +1749,21 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/vehicle_networking/LoginActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/OilActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_oil.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/modle/User.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/modle/Person.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/RegisterActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/NavigationDrawerFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_set.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/ui/OilActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/name/wxz/modle/TitleLayout.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_oil.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/title.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" />
       </list>
     </option>
@@ -2322,6 +1799,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vehicle_networking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2338,17 +1825,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Vehicle_networking" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vehicle_networking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2432,24 +1908,6 @@
               <option name="myItemId" value="wxz" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vehicle_networking" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2463,26 +1921,45 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="android.sdk.path" value="D:/AndroidSDK" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="192.168.56.101:5555" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="85" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="85" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="115" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="908" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="103" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="79" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="109" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="902" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\res\drawable-hdpi" />
+      <recent name="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\res\layout" />
+      <recent name="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\java\name\wxz\modle" />
+      <recent name="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\res\drawable-xhdpi" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\res\drawable-xhdpi" />
-      <recent name="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\res\layout" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
@@ -2759,33 +2236,40 @@
       <option name="number" value="Default" />
       <updated>1462859641555</updated>
     </task>
+    <task id="LOCAL-00001" summary="车联网注册模块">
+      <created>1462945317642</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462945317642</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05469679" sideWeight="0.51618123" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05469679" sideWeight="0.48381877" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3527508" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20808561" sideWeight="0.4871407" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03567182" sideWeight="0.54288024" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03567182" sideWeight="0.45711973" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3511327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20761245" sideWeight="0.47982886" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.4969743" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20226537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25161812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14030915" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="设计师" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2795,8 +2279,41 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.49676377" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.49676377" order="14" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03567182" sideWeight="0.54288024" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03567182" sideWeight="0.45711973" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14030915" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="设计师" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35268947" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20761245" sideWeight="0.47982886" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.4969743" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25161812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.49676377" order="14" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -2809,108 +2326,32 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="车联网注册模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="车联网注册模块" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/RegisterActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/modle/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#126#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/modle/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="58" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2923,32 +2364,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/RegisterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2956,19 +2396,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="method#onNavigationDrawerItemSelected#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#MainActivity#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -2980,34 +2423,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_oil.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3023,9 +2463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3033,9 +2470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3048,17 +2482,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/include_action_bar.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
         <state />
       </provider>
     </entry>
@@ -3086,73 +2509,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/NavigationDrawerFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/OilActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="179" selection-start-line="10" selection-start-column="179" selection-end-line="10" selection-end-column="179" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_oil.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/app/libs/BmobSDK_V3.4.6_0415.jar!/cn/bmob/v3/BmobObject.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.7439024">
           <caret line="276" column="16" selection-start-line="276" selection-start-column="16" selection-end-line="276" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3163,50 +2523,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.275862">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/modle/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding />
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/modle/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#126#153#0" expanded="true" />
-          </folding>
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/modle/Person.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.428572">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/include_action_bar.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_navigation_drawer.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_set.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/RegisterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="72" selection-end-column="33" />
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.87931">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/NavigationDrawerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="125" column="65" selection-start-line="125" selection-start-column="65" selection-end-line="125" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="36" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="36" />
+          <folding>
+            <element signature="method#onNavigationDrawerItemSelected#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3275862">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -3214,22 +2636,127 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/login_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/login_icon_password.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/login_icon_account.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/base_edit_input.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/btn_login_n.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/title_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/back_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/base_horization_line.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/modle/TitleLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09405941">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/title.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/input_bg.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/login_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/name/wxz/ui/OilActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34887007">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.178572">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_oil.xml">
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5676101">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

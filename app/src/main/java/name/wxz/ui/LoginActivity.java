@@ -17,6 +17,7 @@ import com.squareup.okhttp.internal.Util;
 
 import cn.bmob.v3.Bmob;
 import cn.bmob.v3.BmobQuery;
+import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.listener.GetListener;
 import cn.bmob.v3.listener.SaveListener;
 import name.wxz.modle.Person;
@@ -36,6 +37,12 @@ public class LoginActivity extends Activity{
         Bmob.initialize(this, "6629c4f9eb067b6d188d85f8d3bf1ab5");
 
         init();
+
+        BmobUser bmobUser = BmobUser.getCurrentUser(mContext);
+        if(bmobUser != null){
+            Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+            startActivity(intent);
+        }
 
         Login.setOnClickListener(new OnClickListener(){
 
