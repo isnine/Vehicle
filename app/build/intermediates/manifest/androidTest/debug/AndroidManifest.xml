@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.vehicle_networking.test">
+    package="name.wxz.vehicle_networking.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.example.vehicle_networking"
+                     android:targetPackage="name.wxz.vehicle_networking"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.example.vehicle_networking"/>
+                     android:label="Tests for name.wxz.vehicle_networking"/>
 </manifest>

@@ -64,33 +64,35 @@ public final class R {
         public static final int title_bg=0x7f02000e;
     }
     public static final class id {
-        public static final int action_example=0x7f09000f;
-        public static final int action_settings=0x7f09000e;
+        public static final int action_example=0x7f090010;
+        public static final int action_settings=0x7f09000f;
         public static final int btn_login=0x7f090003;
         public static final int btn_register=0x7f090004;
         public static final int container=0x7f090006;
         public static final int drawer_layout=0x7f090005;
         public static final int et_password=0x7f090002;
-        public static final int et_password2=0x7f090009;
+        public static final int et_password2=0x7f09000a;
         public static final int et_username=0x7f090001;
         public static final int iv_icon=0x7f090000;
+        public static final int mapView=0x7f090008;
         public static final int navigation_drawer=0x7f090007;
-        public static final int section_label=0x7f09000b;
-        public static final int textView=0x7f09000a;
-        public static final int title_back=0x7f09000c;
-        public static final int title_text=0x7f09000d;
-        public static final int user=0x7f090008;
+        public static final int section_label=0x7f09000c;
+        public static final int textView=0x7f09000b;
+        public static final int title_back=0x7f09000d;
+        public static final int title_text=0x7f09000e;
+        public static final int user=0x7f090009;
     }
     public static final class layout {
         public static final int activity_login=0x7f030000;
         public static final int activity_main=0x7f030001;
-        public static final int activity_oil=0x7f030002;
-        public static final int activity_register=0x7f030003;
-        public static final int activity_set=0x7f030004;
-        public static final int fragment_main=0x7f030005;
-        public static final int fragment_navigation_drawer=0x7f030006;
-        public static final int include_action_bar=0x7f030007;
-        public static final int title=0x7f030008;
+        public static final int activity_map=0x7f030002;
+        public static final int activity_oil=0x7f030003;
+        public static final int activity_register=0x7f030004;
+        public static final int activity_set=0x7f030005;
+        public static final int fragment_main=0x7f030006;
+        public static final int fragment_navigation_drawer=0x7f030007;
+        public static final int include_action_bar=0x7f030008;
+        public static final int title=0x7f030009;
     }
     public static final class menu {
         public static final int global=0x7f080000;

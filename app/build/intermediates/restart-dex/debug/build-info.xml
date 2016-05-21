@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="1508187354880" >
+    timestamp="8486896670631" >
 
     <task
         name="javac"
@@ -19,7 +19,11 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="15370896903297" >
+    <artifact
+        location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="8486896670631" >
         <artifact
             location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

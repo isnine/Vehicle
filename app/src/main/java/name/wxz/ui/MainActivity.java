@@ -67,11 +67,13 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
                 break;
             case 2:
                 mTitle = getString(R.string.title_section2);
-                Intent intent=new Intent(MainActivity.this,OilActivity.class);
-                startActivity(intent);
+                Intent oil=new Intent(MainActivity.this,OilActivity.class);
+                startActivity(oil);
                 break;
             case 3:
                 mTitle = getString(R.string.title_section3);
+                Intent map=new Intent(MainActivity.this,MapActivity.class);
+                startActivity(map);
                 break;
             case 4:
                 mTitle = getString(R.string.title_section4);

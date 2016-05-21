@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:2:1-50:12
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:2:1-74:12
 	package
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml
@@ -83,41 +83,75 @@ uses-permission#android.permission.RECEIVE_USER_PRESENT
 ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:27:5-79
 	android:name
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:27:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:32:5-85
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:32:22-82
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:34:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:38:5-73
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:38:22-70
 application
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:29:5-48:19
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:40:5-72:19
 	android:label
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:32:9-41
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:44:9-41
 	android:allowBackup
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:30:9-35
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:42:9-35
 	android:icon
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:31:9-45
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:43:9-45
 	android:theme
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:33:9-40
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:45:9-40
 activity#name.wxz.ui.LoginActivity
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:34:9-42:20
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:46:9-54:20
 	android:label
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:36:13-45
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:48:13-45
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:35:13-53
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:47:13-53
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:37:13-41:29
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:49:13-53:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:50:17-69
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:50:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:40:17-77
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:52:17-77
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:40:27-74
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:52:27-74
 activity#name.wxz.ui.MainActivity
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:43:10-72
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:55:10-72
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:43:21-60
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:55:21-60
 activity#name.wxz.ui.RegisterActivity
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:45:9-75
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:57:9-75
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:45:20-63
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:57:20-63
 activity#name.wxz.ui.OilActivity
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:47:9-70
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:59:9-70
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:47:20-58
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:59:20-58
+activity#name.wxz.ui.MapActivity
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:61:9-70
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:61:20-58
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:62:9-64:64
+	android:value
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:64:13-61
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:63:13-52
+service#com.baidu.location.f
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:67:9-71:19
+	android:enabled
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:69:13-35
+	android:process
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:70:13-38
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:68:13-48
