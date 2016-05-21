@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="18"
-    density="xhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
     format="7"
-    timestamp="67946701124350" >
+    timestamp="1508187354880" >
 
     <task
         name="javac"
@@ -19,6 +19,10 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="67946701124350" />
+    <build timestamp="15370896903297" >
+        <artifact
+            location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
 
 </instant-run>

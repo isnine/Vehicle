@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\drawable-xhdpi\\login_bg.png"
     },
     {
-        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_icon_account.png",
-        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\drawable-xhdpi\\login_icon_account.png"
-    },
-    {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\drawer_shadow.9.png",
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_icon_account.png",
+        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\drawable-xhdpi\\login_icon_account.png"
     },
     {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\base_edit_input.9.png",

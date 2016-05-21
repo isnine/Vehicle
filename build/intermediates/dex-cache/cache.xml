@@ -1,3 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="17143c40625f3124850b1ad4ace706f77ab324e6">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3326c09c44a9f9c564e578c187dfc4dc0573bcf6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5570e6626c262cf44fb5aeb3926a33703aed8a99">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f6e57308333d7ea73580c4c129c9d4483bafb85a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.4.0_0f9573cae00825562303d3faa941b5e68c883e8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\BmobSDK_V3.4.6_0415.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="41f54bb2846705eea0de5df48ddbcba378bd54e5">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSDK_V3.4.6_0415_1ab6a61c5ef4600c2a2854199aca8c1b67bf0efd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\Bmob_Push_V0.8beta_20160420.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\Bmob_Push_V0.8beta_20160420_e101a5f888714b7f1784af08969c47666a9a0023\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_162b7cf4427ccae798a2cd952612fae8557d3e04\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\okio-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.4.0_b4b67619f315001f628ca6dd8aed63bb5ec621e2\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_91f5c31930175b7860fe0f87febc4f6b571bd292\classes.dex" />
+    </item>
+
+</items>

@@ -1,8 +1,0 @@
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\name\wxz\ui\NavigationDrawerFragment$override.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\vehicle_networking\R$string$override.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\vehicle_networking\R$drawable$override.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\vehicle_networking\R$menu$override.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\vehicle_networking\R$layout$override.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\vehicle_networking\R$style$override.class
-CHANGED,C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\vehicle_networking\R$id$override.class
