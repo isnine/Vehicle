@@ -24,10 +24,6 @@
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\activity_map.xml"
     },
     {
-        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
-        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\title.xml"
-    },
-    {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_oil.xml",
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\activity_oil.xml"
     },

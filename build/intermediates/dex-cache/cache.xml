@@ -54,14 +54,14 @@
         jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="daa64425f514ea01c9a13c3d3282126ad7a340e7">
+        sha1="cb6dd6713049c7fef02a37c902ef791c9fce452d">
         <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3326c09c44a9f9c564e578c187dfc4dc0573bcf6\classes.dex" />
     </item>
     <item
         jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="b3f5e9c73025b848b3edbafc43c033d3d7d2656d">
+        sha1="ef7127dac68081933f39511df49253abd3eaffb0">
         <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f6e57308333d7ea73580c4c129c9d4483bafb85a\classes.dex" />
     </item>
     <item

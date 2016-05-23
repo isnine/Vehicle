@@ -3,10 +3,10 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <name.wxz.modle.TitleLayout
+    <name.wxz.modle.OilTitleLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        ></name.wxz.modle.TitleLayout>
+        ></name.wxz.modle.OilTitleLayout>
 
 
 

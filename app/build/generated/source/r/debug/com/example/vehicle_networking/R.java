@@ -95,7 +95,6 @@ public final class R {
         public static final int include_action_bar=0x7f030008;
         public static final int maptitle=0x7f030009;
         public static final int oiltitle=0x7f03000a;
-        public static final int title=0x7f03000b;
     }
     public static final class menu {
         public static final int global=0x7f080000;
