@@ -2,6 +2,7 @@ package name.wxz.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.Window;
 
 import com.baidu.location.BDLocation;
 import com.baidu.location.BDLocationListener;
@@ -63,8 +64,10 @@ public class MapActivity extends Activity {
         super.onCreate(savedInstanceState);
         // 在使用SDK各组件之前初始化context信息，传入ApplicationContext
         // 注意该方法要再setContentView方法之前实现
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
         SDKInitializer.initialize(getApplicationContext());
         setContentView(R.layout.activity_map);
+
 
         mapView = (MapView) this.findViewById(R.id.mapView); // 获取地图控件引用
         baiduMap = mapView.getMap();
