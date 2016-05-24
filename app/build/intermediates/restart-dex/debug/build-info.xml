@@ -4,29 +4,34 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="115163839684983" >
+    timestamp="6281627636856" >
 
     <task
         name="javac"
-        duration="1469" />
+        duration="2120" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="520" />
+        duration="557" />
     <task
         name="verifier"
-        duration="135" />
+        duration="33" />
 
     <artifact
-        location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
 
-    <build timestamp="115163839684983" >
+    <build timestamp="6072844066787" >
         <artifact
             location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="6281627636856" >
+        <artifact
+            location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

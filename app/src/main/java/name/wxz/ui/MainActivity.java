@@ -77,6 +77,8 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
                 break;
             case 4:
                 mTitle = getString(R.string.title_section4);
+                Intent openMainActivity=new Intent("android.intent.action.MAPFIND");
+                startActivity(openMainActivity);
                 break;
             case 5:
                 mTitle = getString(R.string.title_section5);
@@ -159,6 +161,7 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
         public void onAttach(Activity activity) {
             super.onAttach(activity);
             ((MainActivity) activity).onSectionAttached(getArguments().getInt(ARG_SECTION_NUMBER));
+
         }
     }
     public void inti(){

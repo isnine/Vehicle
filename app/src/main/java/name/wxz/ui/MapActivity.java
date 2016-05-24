@@ -69,6 +69,7 @@ public class MapActivity extends Activity {
         setContentView(R.layout.activity_map);
 
 
+
         mapView = (MapView) this.findViewById(R.id.mapView); // 获取地图控件引用
         baiduMap = mapView.getMap();
         //开启定位图层

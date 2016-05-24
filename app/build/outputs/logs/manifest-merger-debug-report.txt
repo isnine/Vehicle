@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:2:1-74:12
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:2:1-85:12
 	package
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml
@@ -100,7 +100,7 @@ ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\Android
 	android:name
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:38:22-70
 application
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:40:5-72:19
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:40:5-83:19
 	android:label
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:44:9-41
 	android:allowBackup
@@ -126,9 +126,9 @@ ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\Android
 	android:name
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:52:27-74
 activity#name.wxz.ui.MainActivity
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:55:10-72
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:55:9-71
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:55:21-60
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:55:20-59
 activity#name.wxz.ui.RegisterActivity
 ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:57:9-75
 	android:name
@@ -141,17 +141,33 @@ activity#name.wxz.ui.MapActivity
 ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:61:9-70
 	android:name
 		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:61:20-58
+activity#name.wxz.ui.MapFind
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:64:9-71:20
+	android:label
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:65:13-47
+intent-filter#android.intent.action.MAPFIND+android.intent.category.DEFAULT
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:67:13-70:29
+action#android.intent.action.MAPFIND
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:68:17-72
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:68:25-69
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:69:27-73
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:62:9-64:64
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:73:9-75:64
 	android:value
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:64:13-61
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:75:13-61
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:63:13-52
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:74:13-52
 service#com.baidu.location.f
-ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:67:9-71:19
+ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:78:9-82:19
 	android:enabled
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:69:13-35
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:80:13-35
 	android:process
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:70:13-38
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:81:13-38
 	android:name
-		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:68:13-48
+		ADDED from C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\src\main\AndroidManifest.xml:79:13-48

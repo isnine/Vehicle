@@ -2,6 +2,7 @@ package name.wxz.modle;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -21,9 +22,11 @@ public class OilTitleLayout extends LinearLayout {
         titleBack.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                ((Activity) getContext()).finish();
+               ((Activity) getContext()).finish();
+
             }
         });
+
 
     }
 
