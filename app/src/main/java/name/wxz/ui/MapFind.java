@@ -2,6 +2,7 @@ package name.wxz.ui;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
+import android.view.Window;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -61,6 +62,7 @@ public class MapFind extends Activity implements BaiduMap.OnMapClickListener,
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.map_find);
         CharSequence titleLable = "路线规划功能";
         setTitle(titleLable);
@@ -100,7 +102,8 @@ public class MapFind extends Activity implements BaiduMap.OnMapClickListener,
         if (v.getId() == R.id.drive) {
             mSearch.drivingSearch((new DrivingRoutePlanOption())
                     .from(stNode).to(enNode));
-        } else if (v.getId() == R.id.transit) {
+        }
+/*        else if (v.getId() == R.id.transit) {
             mSearch.transitSearch((new TransitRoutePlanOption())
                     .from(stNode).city("北京").to(enNode));
         } else if (v.getId() == R.id.walk) {
@@ -109,7 +112,7 @@ public class MapFind extends Activity implements BaiduMap.OnMapClickListener,
         } else if (v.getId() == R.id.bike) {
             mSearch.bikingSearch((new BikingRoutePlanOption())
                     .from(stNode).to(enNode));
-        }
+        }*/
     }
 
     /**

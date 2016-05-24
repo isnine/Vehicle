@@ -3,7 +3,11 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical" >
-
+    <!--自定义标题-->
+    <name.wxz.modle.MapFindTitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></name.wxz.modle.MapFindTitleLayout>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="fill_parent"
@@ -21,7 +25,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:text="龙泽" >
+            android:hint="龙泽" >
 
             <requestFocus />
         </EditText>
@@ -44,7 +48,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:text="西单" >
+            android:hint="西单" >
 
             <requestFocus />
         </EditText>
@@ -68,7 +72,7 @@
             android:onClick="searchButtonProcess"
             android:text="驾车搜索" />
 
-        <Button
+<!--        <Button
             android:id="@+id/transit"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
@@ -95,7 +99,7 @@
             android:layout_marginRight="2dip"
             android:layout_weight="1.0"
             android:onClick="searchButtonProcess"
-            android:text="骑行搜索" />
+            android:text="骑行搜索" />-->
     </LinearLayout>
 
     <RelativeLayout
@@ -120,14 +124,14 @@
             android:layout_marginTop="10dip"
             android:orientation="vertical" >
 
-            <Button
+<!--            <Button
                 android:id="@+id/customicon"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:layout_marginTop="10dip"
                 android:layout_weight="1.0"
                 android:onClick="changeRouteIcon"
-                android:text="自定义起终点图标" />
+                android:text="自定义起终点图标" />-->
         </LinearLayout>
 
         <LinearLayout
