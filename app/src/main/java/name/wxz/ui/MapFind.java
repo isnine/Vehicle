@@ -8,13 +8,20 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.baidu.location.BDLocation;
+import com.baidu.location.BDLocationListener;
+import com.baidu.location.LocationClient;
+import com.baidu.location.LocationClientOption;
+import com.baidu.mapapi.SDKInitializer;
 import com.baidu.mapapi.map.BaiduMap;
 import com.baidu.mapapi.map.BitmapDescriptor;
 import com.baidu.mapapi.map.BitmapDescriptorFactory;
 import com.baidu.mapapi.map.InfoWindow;
 import com.baidu.mapapi.map.MapPoi;
+import com.baidu.mapapi.map.MapStatusUpdate;
 import com.baidu.mapapi.map.MapStatusUpdateFactory;
 import com.baidu.mapapi.map.MapView;
+import com.baidu.mapapi.map.MyLocationData;
 import com.baidu.mapapi.model.LatLng;
 
 import com.baidu.mapapi.search.core.RouteLine;
@@ -60,9 +67,43 @@ public class MapFind extends Activity implements BaiduMap.OnMapClickListener,
     // 搜索相关
     RoutePlanSearch mSearch = null;    // 搜索模块，也可去掉地图模块独立使用
 
+    public LocationClient locationClient = null;
+    //自定义图标
+    BitmapDescriptor mCurrentMarker = null;
+    boolean isFirstLoc = true;// 是否首次定位
+
+    public BDLocationListener myListener = new BDLocationListener() {
+        @Override
+        public void onReceiveLocation(BDLocation location) {
+            // map view 销毁后不在处理新接收的位置
+            if (location == null || mBaidumap == null)
+                return;
+
+            MyLocationData locData = new MyLocationData.Builder()
+                    .accuracy(location.getRadius())
+                    // 此处设置开发者获取到的方向信息，顺时针0-360
+                    .direction(100).latitude(location.getLatitude())
+                    .longitude(location.getLongitude()).build();
+            mBaidumap.setMyLocationData(locData);	//设置定位数据
+
+
+            if (isFirstLoc) {
+                isFirstLoc = false;
+
+
+                LatLng ll = new LatLng(location.getLatitude(),
+                        location.getLongitude());
+                MapStatusUpdate u = MapStatusUpdateFactory.newLatLngZoom(ll, 16);	//设置地图中心点以及缩放级别
+//				MapStatusUpdate u = MapStatusUpdateFactory.newLatLng(ll);
+                mBaidumap.animateMapStatus(u);
+            }
+        }
+    };
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
+        SDKInitializer.initialize(getApplicationContext());
         setContentView(R.layout.map_find);
         CharSequence titleLable = "路线规划功能";
         setTitle(titleLable);
@@ -78,6 +119,15 @@ public class MapFind extends Activity implements BaiduMap.OnMapClickListener,
         // 初始化搜索模块，注册事件监听
         mSearch = RoutePlanSearch.newInstance();
         mSearch.setOnGetRoutePlanResultListener(this);
+
+        mBaidumap = mMapView.getMap();
+        //开启定位图层
+        mBaidumap.setMyLocationEnabled(true);
+
+        locationClient = new LocationClient(getApplicationContext()); // 实例化LocationClient类
+        locationClient.registerLocationListener(myListener); // 注册监听函数
+        this.setLocationOption();	//设置定位参数
+        locationClient.start(); // 开始定位
     }
 
     /**
@@ -424,6 +474,23 @@ public class MapFind extends Activity implements BaiduMap.OnMapClickListener,
         mSearch.destroy();
         mMapView.onDestroy();
         super.onDestroy();
-    }
 
+        locationClient.stop();
+        mBaidumap.setMyLocationEnabled(false);
+        // TODO Auto-generated method stub
+
+        mMapView.onDestroy();
+        mMapView = null;
+    }
+    private void setLocationOption() {
+        LocationClientOption option = new LocationClientOption();
+        option.setOpenGps(true); // 打开GPS
+        option.setLocationMode(LocationClientOption.LocationMode.Hight_Accuracy);// 设置定位模式
+        option.setCoorType("bd09ll"); // 返回的定位结果是百度经纬度,默认值gcj02
+        option.setScanSpan(5000); // 设置发起定位请求的间隔时间为5000ms
+        option.setIsNeedAddress(true); // 返回的定位结果包含地址信息
+        option.setNeedDeviceDirect(true); // 返回的定位结果包含手机机头的方向
+
+        locationClient.setLocOption(option);
+    }
 }
