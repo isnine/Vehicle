@@ -34,4 +34,39 @@
     <item name="android:layout_marginLeft">@dimen/register_margin</item>
     <item name="android:background">@color/transparent</item>
 </style>
+    <style name="csy_row_icon">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">@dimen/csy_icon_w</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="csy_textbox">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/csy_text</item>
+        <item name="android:textColorHint">@color/csy_hint</item>
+        <item name="android:background">@drawable/csy_textbox</item>
+        <item name="android:textSize">@dimen/csy_text_ts</item>
+    </style>
+    <style name="csy_textbox1" parent="csy_textbox">
+        <item name="android:layout_marginRight">@dimen/csy_icon_w</item>
+    </style>
+    <style name="csy_row_label">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">@dimen/csy_label_w</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/csy_label</item>
+    </style>
+    <style name="csy_row">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/csy_row_h</item>
+        <item name="android:paddingLeft">@dimen/csy_pd</item>
+    </style>
+
+    <style name="csy_row1" parent="csy_row">
+        <item name="android:background">@drawable/csy_form_row</item>
+    </style>
 </resources>

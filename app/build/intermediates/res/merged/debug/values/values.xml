@@ -17,6 +17,16 @@
     <color name="color_transparent_bg">#80000000</color>
     <color name="color_transparent_bg1">#e0000000</color>
     <color name="common_bg">#fcfcfc</color>
+    <color name="csy_bg_body">#ffe9e9e9</color>
+    <color name="csy_blue">#ff0a7dd2</color>
+    <color name="csy_blue_on">#ff0a64aa</color>
+    <color name="csy_border">#ffd0d0d0</color>
+    <color name="csy_green">#ff3caa0f</color>
+    <color name="csy_green_on">#ff28780a</color>
+    <color name="csy_hint">#ffc6c6c6</color>
+    <color name="csy_label">#ff969696</color>
+    <color name="csy_row_on">#fff0f0f0</color>
+    <color name="csy_text">#ff555555</color>
     <color name="dialog_color_title">#f82c22</color>
     <color name="guide_color">#898989</color>
     <color name="home_item_color_bg">#f4f6f6</color>
@@ -29,12 +39,33 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="base_action_bar_height">48.0dip</dimen>
+    <dimen name="csy_btn_h">46.0dp</dimen>
+    <dimen name="csy_icon_w">40.0dp</dimen>
+    <dimen name="csy_item_h">52.0dp</dimen>
+    <dimen name="csy_label_ts">13.0sp</dimen>
+    <dimen name="csy_label_w">70.0dp</dimen>
+    <dimen name="csy_mg">15.0dp</dimen>
+    <dimen name="csy_pd">10.0dp</dimen>
+    <dimen name="csy_row_h">64.0dp</dimen>
+    <dimen name="csy_text_ts">16.0sp</dimen>
+    <dimen name="csy_tip_h">30.0dp</dimen>
+    <dimen name="csy_tip_ts">14.0sp</dimen>
+    <dimen name="csy_title_ts">18.0sp</dimen>
     <dimen name="navigation_drawer_width">240dp</dimen>
     <dimen name="register_margin">10.0dp</dimen>
     <dimen name="text_size_large">18sp</dimen>
     <string name="action_example"/>
     <string name="action_settings">Settings</string>
     <string name="app_name">车联网</string>
+    <string name="csy_btn_query">开始查询</string>
+    <string name="csy_chejia_lab">车架号</string>
+    <string name="csy_chepai_lab">车牌号</string>
+    <string name="csy_chepai_tip">请输入车牌号后6位</string>
+    <string name="csy_close">关闭</string>
+    <string name="csy_cxdz_lab">查询地</string>
+    <string name="csy_cxdz_tip">请选择查询地</string>
+    <string name="csy_engine_lab">发动机号</string>
+    <string name="csy_form_tip">目前仅支持小型汽车查询</string>
     <string name="login">登录</string>
     <string name="login_account">账号 </string>
     <string name="login_email">确认密码 </string>
@@ -82,5 +113,39 @@
     </style>
     <style name="Smile_TextView_Black">
         <item name="android:textColor">@color/base_color_text_black</item>
+    </style>
+    <style name="csy_row">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/csy_row_h</item>
+        <item name="android:paddingLeft">@dimen/csy_pd</item>
+    </style>
+    <style name="csy_row1" parent="csy_row">
+        <item name="android:background">@drawable/csy_form_row</item>
+    </style>
+    <style name="csy_row_icon">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">@dimen/csy_icon_w</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="csy_row_label">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">@dimen/csy_label_w</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/csy_label</item>
+    </style>
+    <style name="csy_textbox">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/csy_text</item>
+        <item name="android:textColorHint">@color/csy_hint</item>
+        <item name="android:background">@drawable/csy_textbox</item>
+        <item name="android:textSize">@dimen/csy_text_ts</item>
+    </style>
+    <style name="csy_textbox1" parent="csy_textbox">
+        <item name="android:layout_marginRight">@dimen/csy_icon_w</item>
     </style>
 </resources>

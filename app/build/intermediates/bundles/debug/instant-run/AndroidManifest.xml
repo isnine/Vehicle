@@ -59,6 +59,21 @@
         <activity android:name="name.wxz.ui.RegisterActivity" />
         <activity android:name="name.wxz.ui.OilActivity" />
         <activity android:name="name.wxz.ui.MapActivity" />
+
+        <!-- 违规模块 -->
+        <activity android:name="name.wxz.ui.WeizhangActivity" >
+        </activity>
+        <activity android:name="name.wxz.weizhang.ShortNameList" >
+        </activity>
+        <activity android:name="name.wxz.weizhang.ProvinceList" >
+        </activity>
+        <activity android:name="name.wxz.weizhang.CityList" >
+        </activity>
+        <activity android:name="name.wxz.weizhang.WeizhangResult" >
+        </activity>
+
+        <service android:name="com.cheshouye.api.client.WeizhangIntentService" />
+
         <activity
             android:name="name.wxz.ui.MapFind"
             android:label="@string/app_name" >

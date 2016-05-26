@@ -1,24 +1,21 @@
 package name.wxz.ui;
 
-import android.app.Activity;
-
 import android.app.ActionBar;
+import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.widget.DrawerLayout;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.support.v4.widget.DrawerLayout;
 import android.widget.TextView;
 
 import com.example.vehicle_networking.R;
-
-import name.wxz.modle.Person;
 
 public class MainActivity extends Activity implements NavigationDrawerFragment.NavigationDrawerCallbacks {
     public Context mContext = this;
@@ -78,17 +75,19 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
                 break;
             case 4:
                 mTitle = getString(R.string.title_section4);
-                Intent openMainActivity=new Intent("android.intent.action.MAPFIND");
-                startActivity(openMainActivity);
+
                 break;
             case 5:
                 mTitle = getString(R.string.title_section5);
+
                 break;
             case 6:
-                mTitle = getString(R.string.title_section5);
+                mTitle = getString(R.string.title_section6);
+                Intent weizhang=new Intent(MainActivity.this,WeizhangActivity.class);
+                startActivity(weizhang);
                 break;
             case 7:
-                mTitle = getString(R.string.title_section5);
+                mTitle = getString(R.string.title_section7);
                 break;
         }
     }
