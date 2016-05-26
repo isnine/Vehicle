@@ -2,48 +2,6 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_base_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="26aec1b74c9e42fb4f27432b79cf9e65365f5612">
-        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_base_v3_7_3_9266aa73e49f335996d8cd8db09f6fd6cb0d4e29\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_search_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="dea8cea1cf2639d2a92718333f47f5a7bef25b17">
-        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_search_v3_7_3_872354ee8cb27ce25d2c6d7924ac8c901864ee00\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\BmobSDK_V3.4.6_0415.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="41f54bb2846705eea0de5df48ddbcba378bd54e5">
-        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSDK_V3.4.6_0415_1ab6a61c5ef4600c2a2854199aca8c1b67bf0efd\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_cloud_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1bfd60b172276bd6c127e1b020578ba8943cb817">
-        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_cloud_v3_7_3_79c88301e9aacfb6914db15d62d50a9e0b3555b7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_map_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="b18498f0ff59163574118729da41b7e89971d713">
-        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_map_v3_7_3_4c86d1565b8b3e73e0aee5839f5de7c59a44161a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_radar_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="285cb61966027336b8cc418a6a3ec159039aa0c2">
-        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_radar_v3_7_3_3b9edb27ff18652da57074f51664435903d8b6b8\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_util_v3_7_3.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -56,6 +14,20 @@
         revision="23.0.3"
         sha1="d08c87bd63362c50cf67fb9d81f391c119c056a3">
         <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3326c09c44a9f9c564e578c187dfc4dc0573bcf6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_base_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="26aec1b74c9e42fb4f27432b79cf9e65365f5612">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_base_v3_7_3_9266aa73e49f335996d8cd8db09f6fd6cb0d4e29\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_search_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dea8cea1cf2639d2a92718333f47f5a7bef25b17">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_search_v3_7_3_872354ee8cb27ce25d2c6d7924ac8c901864ee00\classes.dex" />
     </item>
     <item
         jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
@@ -72,6 +44,13 @@
         <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.4.0_0f9573cae00825562303d3faa941b5e68c883e8c\classes.dex" />
     </item>
     <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\BmobSDK_V3.4.6_0415.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="41f54bb2846705eea0de5df48ddbcba378bd54e5">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSDK_V3.4.6_0415_1ab6a61c5ef4600c2a2854199aca8c1b67bf0efd\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\Bmob_Push_V0.8beta_20160420.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -86,11 +65,25 @@
         <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_71b9fcfa1d6dcc3d7484f5d2f568b9847a478568\classes.dex" />
     </item>
     <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_cloud_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1bfd60b172276bd6c127e1b020578ba8943cb817">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_cloud_v3_7_3_79c88301e9aacfb6914db15d62d50a9e0b3555b7\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\org.apache.http.legacy.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
         <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_162b7cf4427ccae798a2cd952612fae8557d3e04\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_map_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b18498f0ff59163574118729da41b7e89971d713">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_map_v3_7_3_4c86d1565b8b3e73e0aee5839f5de7c59a44161a\classes.dex" />
     </item>
     <item
         jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\okio-1.4.0.jar"
@@ -105,6 +98,13 @@
         revision="23.0.3"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
         <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_91f5c31930175b7860fe0f87febc4f6b571bd292\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\libs\baidumapapi_radar_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="285cb61966027336b8cc418a6a3ec159039aa0c2">
+        <dex dex="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_radar_v3_7_3_3b9edb27ff18652da57074f51664435903d8b6b8\classes.dex" />
     </item>
 
 </items>
