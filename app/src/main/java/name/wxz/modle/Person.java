@@ -1,6 +1,5 @@
 package name.wxz.modle;
 
-import cn.bmob.v3.BmobObject;
 import cn.bmob.v3.BmobUser;
 
 /**
@@ -19,6 +18,13 @@ public class Person extends BmobUser {
         return name;
     }
     public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getSex() {
+        return name;
+    }
+    public void setSex(String name) {
         this.name = name;
     }
 

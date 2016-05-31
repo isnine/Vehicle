@@ -60,6 +60,8 @@
         <activity android:name="name.wxz.ui.OilActivity" />
         <activity android:name="name.wxz.ui.MapActivity" />
         <activity android:name="name.wxz.ui.SetActivity" />
+        <activity android:name="name.wxz.Set.SetPerson" />
+        <activity android:name="name.wxz.Set.SetName" />
         <!-- 违规模块 -->
         <activity android:name="name.wxz.ui.WeizhangActivity" >
         </activity>

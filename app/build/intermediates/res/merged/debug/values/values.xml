@@ -61,6 +61,7 @@
     <string name="add_friend">添加好友</string>
     <string name="add_gender">性别</string>
     <string name="add_name">账号</string>
+    <string name="add_name_hint">请输入昵称…</string>
     <string name="add_nick">昵称</string>
     <string name="app_name">车联网</string>
     <string name="black_tips">已添加至黑名单，你将不再收到对方的消息!</string>

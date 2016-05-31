@@ -6,6 +6,11 @@
     android:background="@color/theme_bg_color"
     android:orientation="vertical" >
 
+    <name.wxz.modle.SetTitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></name.wxz.modle.SetTitleLayout>
+
     <RelativeLayout
         android:id="@+id/layout_head"
         android:layout_width="match_parent"
@@ -33,8 +38,8 @@
                 style="@style/Smile.ImageView"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:padding="5dp"/>
-              <!--  android:src="@drawable/head" />-->
+                android:padding="5dp"
+             android:src="@drawable/head" />
 
             <ImageView
                 android:id="@+id/iv_arraw"

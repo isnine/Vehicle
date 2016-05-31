@@ -17,6 +17,8 @@ import android.widget.TextView;
 
 import com.example.vehicle_networking.R;
 
+import name.wxz.Set.SetPerson;
+
 public class MainActivity extends Activity implements NavigationDrawerFragment.NavigationDrawerCallbacks {
     public Context mContext = this;
     /**
@@ -79,7 +81,8 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
                 break;
             case 5:
                 mTitle = getString(R.string.title_section5);
-
+                Intent person=new Intent(this,SetPerson.class);
+                startActivity(person);
                 break;
             case 6:
                 mTitle = getString(R.string.title_section6);
