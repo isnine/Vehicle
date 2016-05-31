@@ -62,7 +62,7 @@
 
         <activity  android:name="name.wxz.ui.MapActivity"></activity>
 
-
+        <activity  android:name="name.wxz.ui.SetActivity"></activity>
         <!--违规模块-->
         <activity android:name="name.wxz.ui.WeizhangActivity" >
         </activity>
@@ -74,6 +74,7 @@
         </activity>
         <activity android:name="name.wxz.weizhang.WeizhangResult" >
         </activity>
+
         <service android:name="com.cheshouye.api.client.WeizhangIntentService" />
 
 

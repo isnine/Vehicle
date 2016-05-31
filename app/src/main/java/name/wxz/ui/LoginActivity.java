@@ -13,15 +13,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.vehicle_networking.R;
-import com.squareup.okhttp.internal.Util;
 
 import cn.bmob.v3.Bmob;
-import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.BmobUser;
-import cn.bmob.v3.listener.GetListener;
 import cn.bmob.v3.listener.SaveListener;
 import name.wxz.modle.Person;
-import name.wxz.modle.User;
 
 public class LoginActivity extends Activity{
     Button Login;
@@ -65,6 +61,7 @@ public class LoginActivity extends Activity{
                             toast("登录成功");
                             Intent intent = new Intent(LoginActivity.this, MainActivity.class);
                             startActivity(intent);
+                            finish();
                         }
 
                         @Override

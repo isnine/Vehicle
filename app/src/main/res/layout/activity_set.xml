@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg_color"
+    android:orientation="vertical" >
+    <!--自定义标题-->
+    <name.wxz.modle.SetTitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></name.wxz.modle.SetTitleLayout>
     <RelativeLayout
         android:id="@+id/layout_info"
         android:layout_width="match_parent"
@@ -194,4 +200,5 @@
         android:layout_height="45dp"
         android:layout_margin="@dimen/activity_vertical_margin"
         android:text="@string/logout" />
+
 </LinearLayout>

@@ -2,21 +2,17 @@ package name.wxz.ui;
 
 import android.app.Activity;
 import android.content.Context;
-import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.vehicle_networking.R;
 
-import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.listener.SaveListener;
 import name.wxz.modle.Person;
-import name.wxz.modle.User;
 
 /**
  * Created by Nikcn on 2016/5/10.
@@ -75,9 +71,10 @@ public class RegisterActivity extends Activity {
         bu.signUp(this, new SaveListener() {
             @Override
             public void onSuccess() {
-                toast("注册成功:");
-                Intent intent = new Intent(RegisterActivity.this, MainActivity.class);
-                startActivity(intent);
+                toast("注册成功，请重新输入账号密码");
+                finish();
+//                Intent intent = new Intent(RegisterActivity.this, MainActivity.class);
+//                startActivity(intent);
                 //通过BmobUser.getCurrentUser(context)方法获取登录成功后的本地用户信息
             }
             @Override

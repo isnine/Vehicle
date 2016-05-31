@@ -32,9 +32,16 @@
     <string name="csy_chejia_lab">车架号</string>
     <string name="csy_engine_lab">发动机号</string>
     <string name="csy_close">关闭</string>
-    <string name="set_myinfo">个人资料</string>
     <string name="set_notify">接收新消息通知</string>
     <string name="set_voice">声音</string>
     <string name="set_vibrate">震动</string>
     <string name="logout">退出登陆</string>
+    <string name="set_blacklist">黑名单</string>
+    <string name="set_myinfo">个人资料</string>
+    <string name="add_gender">性别</string>
+    <string name="add_friend">添加好友</string>
+    <string name="black_tips">已添加至黑名单，你将不再收到对方的消息!</string>
+    <string name="add_name">账号</string>
+    <string name="add_nick">昵称</string>
+    <string name="add_avator">头像</string>
 </resources>

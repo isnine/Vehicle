@@ -39,6 +39,7 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="base_action_bar_height">48.0dip</dimen>
+    <dimen name="base_line_width_2">2dip</dimen>
     <dimen name="csy_btn_h">46.0dp</dimen>
     <dimen name="csy_icon_w">40.0dp</dimen>
     <dimen name="csy_item_h">52.0dp</dimen>
@@ -56,7 +57,13 @@
     <dimen name="text_size_large">18sp</dimen>
     <string name="action_example"/>
     <string name="action_settings">Settings</string>
+    <string name="add_avator">头像</string>
+    <string name="add_friend">添加好友</string>
+    <string name="add_gender">性别</string>
+    <string name="add_name">账号</string>
+    <string name="add_nick">昵称</string>
     <string name="app_name">车联网</string>
+    <string name="black_tips">已添加至黑名单，你将不再收到对方的消息!</string>
     <string name="csy_btn_query">开始查询</string>
     <string name="csy_chejia_lab">车架号</string>
     <string name="csy_chepai_lab">车牌号</string>
@@ -73,11 +80,17 @@
     <string name="login_password_hint">请输入密码…</string>
     <string name="login_pwd">密码 </string>
     <string name="login_username_hint">请输入用户名…</string>
+    <string name="logout">退出登陆</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="register">注册</string>
     <string name="register_txt1">还没有账号？</string>
     <string name="register_txt2">立即注册 ></string>
+    <string name="set_blacklist">黑名单</string>
+    <string name="set_myinfo">个人资料</string>
+    <string name="set_notify">接收新消息通知</string>
+    <string name="set_vibrate">震动</string>
+    <string name="set_voice">声音</string>
     <string name="title_section1">开始</string>
     <string name="title_section2">加油</string>
     <string name="title_section3">地图</string>
@@ -110,6 +123,57 @@
         <item name="android:layout_marginTop">@dimen/register_margin</item>
         <item name="android:layout_marginLeft">@dimen/register_margin</item>
         <item name="android:layout_marginRight">@dimen/register_margin</item>
+    </style>
+    <style name="Smile">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Smile.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/base_action_bar_height</item>
+    </style>
+    <style name="Smile.Button.logout" parent="Smile.TextView._White">
+        <item name="android:background">@drawable/btn_logout_selector</item>
+    </style>
+    <style name="Smile.Button.theme" parent="Smile.TextView._White">
+        <item name="android:background">@drawable/btn_login_selector</item>
+    </style>
+    <style name="Smile.ImageView">
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="Smile.ImageView.Photo_Large">
+        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_height">75dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="Smile.ImageView.Photo_Middle">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="Smile.ImageView.Photo_Small">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="Smile.TextView">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Smile.TextView._Black">
+        <item name="android:textColor">@color/base_color_text_black</item>
+    </style>
+    <style name="Smile.TextView._Gray">
+        <item name="android:textColor">@color/base_color_text_gray</item>
+    </style>
+    <style name="Smile.TextView._Orange">
+        <item name="android:textColor">@color/dialog_color_title</item>
+    </style>
+    <style name="Smile.TextView._White">
+        <item name="android:textColor">@color/base_color_text_white</item>
+    </style>
+    <style name="Smile.View_margin">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
     </style>
     <style name="Smile_TextView_Black">
         <item name="android:textColor">@color/base_color_text_black</item>

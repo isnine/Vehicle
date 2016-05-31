@@ -737,9 +737,9 @@
                     "position": {
                         "startLine": 25,
                         "startColumn": 97,
-                        "startOffset": 1033,
+                        "startOffset": 1081,
                         "endColumn": 149,
-                        "endOffset": 1085
+                        "endOffset": 1133
                     }
                 }
             },
@@ -748,8 +748,27 @@
                     "startLine": 41,
                     "startColumn": 4,
                     "startOffset": 2054,
+                    "endColumn": 48,
+                    "endOffset": 2098
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 48,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2103,
                     "endColumn": 42,
-                    "endOffset": 2092
+                    "endOffset": 2141
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -764,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2097,
+                    "startOffset": 2146,
                     "endColumn": 43,
-                    "endOffset": 2136
+                    "endOffset": 2185
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -783,11 +802,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2141,
+                    "startOffset": 2190,
                     "endColumn": 43,
-                    "endOffset": 2180
+                    "endOffset": 2229
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -802,11 +821,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2185,
+                    "startOffset": 2234,
                     "endColumn": 45,
-                    "endOffset": 2226
+                    "endOffset": 2275
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -821,11 +840,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 2231,
+                    "startOffset": 2280,
                     "endColumn": 44,
-                    "endOffset": 2271
+                    "endOffset": 2320
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -840,11 +859,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 2276,
+                    "startOffset": 2325,
                     "endColumn": 39,
-                    "endOffset": 2311
+                    "endOffset": 2360
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -859,11 +878,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 2316,
+                    "startOffset": 2365,
                     "endColumn": 39,
-                    "endOffset": 2351
+                    "endOffset": 2400
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -878,11 +897,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 2356,
+                    "startOffset": 2405,
                     "endColumn": 42,
-                    "endOffset": 2394
+                    "endOffset": 2443
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -897,11 +916,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 2399,
+                    "startOffset": 2448,
                     "endColumn": 44,
-                    "endOffset": 2439
+                    "endOffset": 2488
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -916,11 +935,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 2444,
+                    "startOffset": 2493,
                     "endColumn": 42,
-                    "endOffset": 2482
+                    "endOffset": 2531
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -935,11 +954,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 2487,
+                    "startOffset": 2536,
                     "endColumn": 43,
-                    "endOffset": 2526
+                    "endOffset": 2575
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -954,11 +973,11 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 2531,
+                    "startOffset": 2580,
                     "endColumn": 45,
-                    "endOffset": 2572
+                    "endOffset": 2621
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
@@ -973,39 +992,20 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 2577,
+                    "startOffset": 2626,
                     "endColumn": 55,
-                    "endOffset": 2628
+                    "endOffset": 2677
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 940,
+                        "startOffset": 988,
                         "endColumn": 55,
-                        "endOffset": 991
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 2633,
-                    "endColumn": 48,
-                    "endOffset": 2677
-                },
-                "from": {
-                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1091,
-                        "endColumn": 48,
-                        "endOffset": 1135
+                        "endOffset": 1039
                     }
                 }
             },
@@ -1014,17 +1014,17 @@
                     "startLine": 55,
                     "startColumn": 4,
                     "startOffset": 2682,
-                    "endColumn": 46,
-                    "endOffset": 2724
+                    "endColumn": 48,
+                    "endOffset": 2726
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
-                        "startLine": 25,
-                        "startColumn": 55,
-                        "startOffset": 991,
-                        "endColumn": 97,
-                        "endOffset": 1033
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 48,
+                        "endOffset": 1183
                     }
                 }
             },
@@ -1032,9 +1032,28 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 2729,
+                    "startOffset": 2731,
+                    "endColumn": 46,
+                    "endOffset": 2773
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 55,
+                        "startOffset": 1039,
+                        "endColumn": 97,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2778,
                     "endColumn": 35,
-                    "endOffset": 2760
+                    "endOffset": 2809
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1049,11 +1068,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 2765,
+                    "startOffset": 2814,
                     "endColumn": 52,
-                    "endOffset": 2813
+                    "endOffset": 2862
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1068,11 +1087,106 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 2818,
+                    "startOffset": 2867,
+                    "endColumn": 41,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2119,
+                        "endColumn": 41,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 43,
+                    "endOffset": 2948
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1931,
+                        "endColumn": 43,
+                        "endOffset": 1970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2953,
+                    "endColumn": 41,
+                    "endOffset": 2990
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1888,
+                        "endColumn": 41,
+                        "endOffset": 1925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2995,
+                    "endColumn": 39,
+                    "endOffset": 3030
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2037,
+                        "endColumn": 39,
+                        "endOffset": 2072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3035,
+                    "endColumn": 39,
+                    "endOffset": 3070
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2078,
+                        "endColumn": 39,
+                        "endOffset": 2113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3075,
                     "endColumn": 40,
-                    "endOffset": 2854
+                    "endOffset": 3111
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1087,11 +1201,30 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 2859,
+                    "startOffset": 3116,
+                    "endColumn": 59,
+                    "endOffset": 3171
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1976,
+                        "endColumn": 59,
+                        "endOffset": 2031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3176,
                     "endColumn": 46,
-                    "endOffset": 2901
+                    "endOffset": 3218
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1106,11 +1239,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 2906,
+                    "startOffset": 3223,
                     "endColumn": 46,
-                    "endOffset": 2948
+                    "endOffset": 3265
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1125,11 +1258,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 2953,
+                    "startOffset": 3270,
                     "endColumn": 46,
-                    "endOffset": 2995
+                    "endOffset": 3312
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1144,11 +1277,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 3000,
+                    "startOffset": 3317,
                     "endColumn": 52,
-                    "endOffset": 3048
+                    "endOffset": 3365
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1163,11 +1296,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 3053,
+                    "startOffset": 3370,
                     "endColumn": 40,
-                    "endOffset": 3089
+                    "endOffset": 3406
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1182,11 +1315,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 3094,
+                    "startOffset": 3411,
                     "endColumn": 44,
-                    "endOffset": 3134
+                    "endOffset": 3451
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1201,11 +1334,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 3139,
+                    "startOffset": 3456,
                     "endColumn": 47,
-                    "endOffset": 3182
+                    "endOffset": 3499
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1220,11 +1353,11 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 3187,
+                    "startOffset": 3504,
                     "endColumn": 47,
-                    "endOffset": 3230
+                    "endOffset": 3547
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1239,11 +1372,11 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 3235,
+                    "startOffset": 3552,
                     "endColumn": 52,
-                    "endOffset": 3283
+                    "endOffset": 3600
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1258,11 +1391,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 3288,
+                    "startOffset": 3605,
                     "endColumn": 36,
-                    "endOffset": 3320
+                    "endOffset": 3637
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1277,11 +1410,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 3325,
+                    "startOffset": 3642,
                     "endColumn": 45,
-                    "endOffset": 3366
+                    "endOffset": 3683
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1296,11 +1429,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 3371,
+                    "startOffset": 3688,
                     "endColumn": 45,
-                    "endOffset": 3412
+                    "endOffset": 3729
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1315,11 +1448,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 3417,
+                    "startOffset": 3734,
                     "endColumn": 53,
-                    "endOffset": 3466
+                    "endOffset": 3783
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1334,11 +1467,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 3471,
+                    "startOffset": 3788,
                     "endColumn": 54,
-                    "endOffset": 3521
+                    "endOffset": 3838
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1353,11 +1486,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 3526,
+                    "startOffset": 3843,
                     "endColumn": 41,
-                    "endOffset": 3563
+                    "endOffset": 3880
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1372,11 +1505,11 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 3568,
+                    "startOffset": 3885,
                     "endColumn": 55,
-                    "endOffset": 3619
+                    "endOffset": 3936
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1391,11 +1524,30 @@
             },
             {
                 "to": {
-                    "startLine": 75,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 3624,
+                    "startOffset": 3941,
+                    "endColumn": 39,
+                    "endOffset": 3976
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1755,
+                        "endColumn": 39,
+                        "endOffset": 1790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3981,
                     "endColumn": 75,
-                    "endOffset": 3695
+                    "endOffset": 4052
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1410,11 +1562,11 @@
             },
             {
                 "to": {
-                    "startLine": 76,
+                    "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 3700,
+                    "startOffset": 4057,
                     "endColumn": 73,
-                    "endOffset": 3769
+                    "endOffset": 4126
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1429,11 +1581,11 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 3774,
+                    "startOffset": 4131,
                     "endColumn": 39,
-                    "endOffset": 3809
+                    "endOffset": 4166
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1448,11 +1600,11 @@
             },
             {
                 "to": {
-                    "startLine": 78,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 3814,
+                    "startOffset": 4171,
                     "endColumn": 48,
-                    "endOffset": 3858
+                    "endOffset": 4215
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1467,11 +1619,11 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 3863,
+                    "startOffset": 4220,
                     "endColumn": 48,
-                    "endOffset": 3907
+                    "endOffset": 4264
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1486,11 +1638,106 @@
             },
             {
                 "to": {
-                    "startLine": 80,
+                    "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 3912,
+                    "startOffset": 4269,
                     "endColumn": 45,
-                    "endOffset": 3953
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1796,
+                        "endColumn": 45,
+                        "endOffset": 1837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endColumn": 43,
+                    "endOffset": 4354
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1843,
+                        "endColumn": 43,
+                        "endOffset": 1882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4359,
+                    "endColumn": 46,
+                    "endOffset": 4401
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 46,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4406,
+                    "endColumn": 42,
+                    "endOffset": 4444
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1711,
+                        "endColumn": 42,
+                        "endOffset": 1749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4449,
+                    "endColumn": 40,
+                    "endOffset": 4485
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1669,
+                        "endColumn": 40,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4490,
+                    "endColumn": 45,
+                    "endOffset": 4531
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1505,11 +1752,11 @@
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 3958,
+                    "startOffset": 4536,
                     "endColumn": 45,
-                    "endOffset": 3999
+                    "endOffset": 4577
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1524,11 +1771,11 @@
             },
             {
                 "to": {
-                    "startLine": 82,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 4004,
+                    "startOffset": 4582,
                     "endColumn": 45,
-                    "endOffset": 4045
+                    "endOffset": 4623
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1543,11 +1790,11 @@
             },
             {
                 "to": {
-                    "startLine": 83,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 4050,
+                    "startOffset": 4628,
                     "endColumn": 45,
-                    "endOffset": 4091
+                    "endOffset": 4669
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1562,11 +1809,11 @@
             },
             {
                 "to": {
-                    "startLine": 84,
+                    "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 4096,
+                    "startOffset": 4674,
                     "endColumn": 45,
-                    "endOffset": 4137
+                    "endOffset": 4715
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1581,11 +1828,11 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 4142,
+                    "startOffset": 4720,
                     "endColumn": 45,
-                    "endOffset": 4183
+                    "endOffset": 4761
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1600,11 +1847,11 @@
             },
             {
                 "to": {
-                    "startLine": 86,
+                    "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 4188,
+                    "startOffset": 4766,
                     "endColumn": 45,
-                    "endOffset": 4229
+                    "endOffset": 4807
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\strings.xml",
@@ -1619,12 +1866,12 @@
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 4234,
-                    "endLine": 93,
+                    "startOffset": 4812,
+                    "endLine": 106,
                     "endColumn": 12,
-                    "endOffset": 4520
+                    "endOffset": 5098
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1640,12 +1887,12 @@
             },
             {
                 "to": {
-                    "startLine": 94,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 4525,
-                    "endLine": 96,
+                    "startOffset": 5103,
+                    "endLine": 109,
                     "endColumn": 12,
-                    "endOffset": 4680
+                    "endOffset": 5258
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1661,12 +1908,12 @@
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 4685,
-                    "endLine": 103,
+                    "startOffset": 5263,
+                    "endLine": 116,
                     "endColumn": 8,
-                    "endOffset": 5015
+                    "endOffset": 5593
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1682,12 +1929,12 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 5020,
-                    "endLine": 112,
+                    "startOffset": 5598,
+                    "endLine": 125,
                     "endColumn": 12,
-                    "endOffset": 5567
+                    "endOffset": 6145
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1703,12 +1950,306 @@
             },
             {
                 "to": {
-                    "startLine": 113,
+                    "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 5572,
-                    "endLine": 115,
+                    "startOffset": 6150,
+                    "endLine": 129,
                     "endColumn": 12,
-                    "endOffset": 5695
+                    "endOffset": 6308
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3460,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 3621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6313,
+                    "endLine": 133,
+                    "endColumn": 12,
+                    "endOffset": 6495
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3731,
+                        "endLine": 84,
+                        "endColumn": 12,
+                        "endOffset": 3916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6500,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 6655
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 5070,
+                        "endLine": 118,
+                        "endColumn": 12,
+                        "endOffset": 5227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6660,
+                    "endLine": 139,
+                    "endColumn": 12,
+                    "endOffset": 6813
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4907,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 5062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6818,
+                    "endLine": 142,
+                    "endColumn": 12,
+                    "endOffset": 6933
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4099,
+                        "endLine": 93,
+                        "endColumn": 12,
+                        "endOffset": 4216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6938,
+                    "endLine": 147,
+                    "endColumn": 12,
+                    "endOffset": 7154
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4224,
+                        "endLine": 99,
+                        "endColumn": 12,
+                        "endOffset": 4444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 7159,
+                    "endLine": 152,
+                    "endColumn": 12,
+                    "endOffset": 7376
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 4450,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 4671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7381,
+                    "endLine": 157,
+                    "endColumn": 12,
+                    "endOffset": 7597
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4679,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 4899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7602,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 7694
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3629,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 3723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7699,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 7823
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5633,
+                        "endLine": 134,
+                        "endColumn": 12,
+                        "endOffset": 5759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7828,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 7950
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 5501,
+                        "endLine": 130,
+                        "endColumn": 12,
+                        "endOffset": 5625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7955,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 8077
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5235,
+                        "endLine": 122,
+                        "endColumn": 12,
+                        "endOffset": 5359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 8082,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 8206
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5367,
+                        "endLine": 126,
+                        "endColumn": 12,
+                        "endOffset": 5493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 8211,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 8375
+                },
+                "from": {
+                    "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3924,
+                        "endLine": 89,
+                        "endColumn": 12,
+                        "endOffset": 4091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 8380,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 8503
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1724,12 +2265,12 @@
             },
             {
                 "to": {
-                    "startLine": 116,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 5700,
-                    "endLine": 120,
+                    "startOffset": 8508,
+                    "endLine": 184,
                     "endColumn": 12,
-                    "endOffset": 5925
+                    "endOffset": 8733
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1745,12 +2286,12 @@
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 5930,
-                    "endLine": 123,
+                    "startOffset": 8738,
+                    "endLine": 187,
                     "endColumn": 12,
-                    "endOffset": 6053
+                    "endOffset": 8861
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1766,12 +2307,12 @@
             },
             {
                 "to": {
-                    "startLine": 124,
+                    "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 6058,
-                    "endLine": 130,
+                    "startOffset": 8866,
+                    "endLine": 194,
                     "endColumn": 12,
-                    "endOffset": 6408
+                    "endOffset": 9216
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1787,12 +2328,12 @@
             },
             {
                 "to": {
-                    "startLine": 131,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 6413,
-                    "endLine": 137,
+                    "startOffset": 9221,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 6774
+                    "endOffset": 9582
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1808,12 +2349,12 @@
             },
             {
                 "to": {
-                    "startLine": 138,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 6779,
-                    "endLine": 146,
+                    "startOffset": 9587,
+                    "endLine": 210,
                     "endColumn": 12,
-                    "endOffset": 7262
+                    "endOffset": 10070
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",
@@ -1829,12 +2370,12 @@
             },
             {
                 "to": {
-                    "startLine": 147,
+                    "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 7267,
-                    "endLine": 149,
+                    "startOffset": 10075,
+                    "endLine": 213,
                     "endColumn": 12,
-                    "endOffset": 7401
+                    "endOffset": 10209
                 },
                 "from": {
                     "file": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\values\\styles.xml",

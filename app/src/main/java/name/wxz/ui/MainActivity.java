@@ -88,6 +88,8 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
                 break;
             case 7:
                 mTitle = getString(R.string.title_section7);
+                Intent a=new Intent(MainActivity.this,SetActivity.class);
+                startActivity(a);
                 break;
         }
     }
