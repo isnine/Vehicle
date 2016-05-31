@@ -17,7 +17,7 @@
     <dimen name="csy_tip_ts">14.0sp</dimen>
     <dimen name="csy_text_ts">16.0sp</dimen>
     <dimen name="csy_title_ts">18.0sp</dimen>
-
+    <dimen name="base_line_width_2">2dip</dimen>
 
     <!--
          Per the design guidelines, navigation drawers should be between 240dp and 320dp:
