@@ -158,7 +158,7 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
             TextView user;
             user=(TextView)rootView.findViewById(R.id.user);
-          //  String username = (String) Person.getObjectByKey(MainActivity, "username");
+           // String username = (String) Person.getObjectByKey(MainActivity, "username");
             return rootView;
         }
 

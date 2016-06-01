@@ -24,6 +24,7 @@ public class SetName extends Activity {
     String name;
     String sex;
     Button chat;
+
     private Context mContext = this;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,28 +32,28 @@ public class SetName extends Activity {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.set_name);
         edit_name = (EditText) findViewById(R.id.edit_nick);
-        edit_sex = (EditText) findViewById(R.id.edit_sex);
+      //  edit_sex = (EditText) findViewById(R.id.edit_sex);
         chat=(Button)findViewById(R.id.btn_chat);
 
         chat.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 name=edit_name.getText().toString();
-                sex=edit_sex.getText().toString();
+            //    sex=edit_sex.getText().toString();
                 Person newUser = new Person();
-                newUser.setUsername(name);
-                newUser.setSex(sex);
+                newUser.setName(name);
+            //      newUser.setSex(sex);
                 BmobUser bmobUser = BmobUser.getCurrentUser(mContext);
                 newUser.update(mContext,bmobUser.getObjectId(),new UpdateListener() {
                     @Override
                     public void onSuccess() {
                         // TODO Auto-generated method stub
-                        toast("更新用户信息成功:");
+                        toast("修改昵称成功:");
                     }
                     @Override
                     public void onFailure(int code, String msg) {
                         // TODO Auto-generated method stub
-                        toast("更新用户信息失败:" + msg);
+                        toast("修改昵称失败:" + msg);
                     }
                 });
             }

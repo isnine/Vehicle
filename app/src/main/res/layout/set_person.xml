@@ -96,7 +96,8 @@
             style="@style/Smile.TextView._Black"
             android:layout_alignParentLeft="true"
             android:layout_centerVertical="true"
-            android:text="@string/add_name" />
+            android:text="密码"
+            android:id="@+id/textView" />
 
         <TextView
             android:id="@+id/tv_set_name"
@@ -105,6 +106,16 @@
             android:layout_centerVertical="true"
             android:layout_marginRight="20dp"
             android:drawablePadding="10dp" />
+
+        <ImageView
+            style="@style/Smile.ImageView"
+            android:id="@+id/imageView"
+            android:layout_width="20dp"
+            android:contentDescription="@string/action_settings"
+            android:src="@drawable/register_bottom_arrow"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/tv_set_name" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -133,6 +144,16 @@
                 style="@style/Smile.TextView._Black"
                 android:layout_marginRight="20dp"
                 android:drawablePadding="10dp" />
+
+            <ImageView
+                style="@style/Smile.ImageView"
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:contentDescription="@string/action_settings"
+                android:src="@drawable/register_bottom_arrow"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignLeft="@+id/tv_set_name" />
 
         </LinearLayout>
     </RelativeLayout>

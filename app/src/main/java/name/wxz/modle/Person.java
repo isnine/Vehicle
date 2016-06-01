@@ -13,7 +13,7 @@ public class Person extends BmobUser {
     private String number;
     private String oilclass;
     private String oil;
-
+    private String sex;
     public String getName() {
         return name;
     }
@@ -22,11 +22,13 @@ public class Person extends BmobUser {
     }
 
     public String getSex() {
-        return name;
+        return sex;
     }
-    public void setSex(String name) {
-        this.name = name;
+    public void setSex(String sex) {
+        this.sex = sex;
     }
+
+
 
     public String getNumber() {
         return number;

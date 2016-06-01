@@ -27,7 +27,47 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="欢迎界面"
             android:id="@+id/user" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical" >
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="2dp"
+                android:text="校园服务"
+                android:textColor="#FFFF8833"
+                android:textSize="16sp"
+                android:typeface="monospace" />
+
+            <View
+                android:layout_width="65dp"
+                android:layout_height="1.5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="#FFFF8833"/>
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="2dp"
+            android:text="小菜点餐"
+            android:textColor="#FFFF8833"
+            android:textSize="16sp"
+            android:typeface="monospace" />
+        <View
+            android:layout_width="65dp"
+            android:layout_height="1.5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="#FFFF8833"/>
     </LinearLayout>
 
 

@@ -38,34 +38,6 @@
             />
     </LinearLayout>
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="48dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginTop="10dp"
-        android:background="@drawable/input_bg"
-        android:orientation="horizontal" >
-
-        <TextView
-            style="@style/Smile.TextView._Black"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:gravity="center_vertical"
-            android:text="性别"
-            android:textSize="20sp" />
-
-        <EditText
-            android:id="@+id/edit_sex"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1.0"
-            android:background="@color/transparent"
-            android:gravity="center_vertical"
-            android:hint="请输入性别"
-            />
-    </LinearLayout>
     <Button
         android:id="@+id/btn_chat"
         style="@style/Smile.Button.theme"

@@ -119,11 +119,11 @@ public final class R {
         public static final int title_bg=0x7f02002e;
     }
     public static final class id {
-        public static final int action_example=0x7f090059;
-        public static final int action_settings=0x7f090058;
+        public static final int action_example=0x7f09005c;
+        public static final int action_settings=0x7f09005b;
         public static final int btnBack=0x7f09003b;
-        public static final int btn_add_friend=0x7f090056;
-        public static final int btn_chat=0x7f09004b;
+        public static final int btn_add_friend=0x7f090059;
+        public static final int btn_chat=0x7f09004a;
         public static final int btn_closeXSZ=0x7f09002a;
         public static final int btn_cpsz=0x7f09001f;
         public static final int btn_login=0x7f090003;
@@ -140,7 +140,7 @@ public final class R {
         public static final int drawer_layout=0x7f090005;
         public static final int drive=0x7f090043;
         public static final int edit_nick=0x7f090049;
-        public static final int edit_sex=0x7f09004a;
+        public static final int edit_sex=0x7f09004b;
         public static final int end=0x7f090042;
         public static final int engine_number=0x7f090026;
         public static final int et_password=0x7f090002;
@@ -149,6 +149,8 @@ public final class R {
         public static final int gv_1=0x7f090033;
         public static final int ico_chejia=0x7f090024;
         public static final int ico_engine=0x7f090027;
+        public static final int imageView=0x7f090055;
+        public static final int imageView2=0x7f090058;
         public static final int iv_arraw=0x7f09004f;
         public static final int iv_close_notification=0x7f090010;
         public static final int iv_close_vibrate=0x7f090017;
@@ -162,9 +164,9 @@ public final class R {
         public static final int lab_address=0x7f090037;
         public static final int lab_info=0x7f090039;
         public static final int layout_all=0x7f09004c;
-        public static final int layout_black_tips=0x7f090057;
+        public static final int layout_black_tips=0x7f09005a;
         public static final int layout_blacklist=0x7f09000d;
-        public static final int layout_gender=0x7f090054;
+        public static final int layout_gender=0x7f090056;
         public static final int layout_head=0x7f09004d;
         public static final int layout_info=0x7f09000b;
         public static final int layout_name=0x7f090053;
@@ -192,12 +194,13 @@ public final class R {
         public static final int row_engine=0x7f090025;
         public static final int section_label=0x7f09003e;
         public static final int start=0x7f090040;
+        public static final int textView=0x7f090054;
         public static final int textView1=0x7f09003f;
         public static final int textView2=0x7f090041;
         public static final int titbar=0x7f09001c;
         public static final int title_back=0x7f090047;
         public static final int title_text=0x7f090048;
-        public static final int tv_set_gender=0x7f090055;
+        public static final int tv_set_gender=0x7f090057;
         public static final int tv_set_name=0x7f09000c;
         public static final int tv_set_nick=0x7f090051;
         public static final int txtTitle=0x7f09003c;
@@ -233,8 +236,10 @@ public final class R {
         public static final int maptitle=0x7f030013;
         public static final int oiltitle=0x7f030014;
         public static final int set_name=0x7f030015;
-        public static final int set_person=0x7f030016;
-        public static final int settitle=0x7f030017;
+        public static final int set_password=0x7f030016;
+        public static final int set_person=0x7f030017;
+        public static final int set_sex=0x7f030018;
+        public static final int settitle=0x7f030019;
     }
     public static final class menu {
         public static final int global=0x7f080000;
