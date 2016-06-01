@@ -10,11 +10,197 @@
 
 
 
-    <TextView
-        android:layout_width="wrap_content"
+    <RelativeLayout
+        android:id="@+id/layout_info"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="用户："
-        android:textSize="50px"
-        android:id="@+id/user" />
+        android:background="@drawable/btn_selector"
+        android:minHeight="50dp"
+        android:padding="10dp" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="车牌：" />
+
+        <TextView
+            android:id="@+id/tv_set_name"
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/register_bottom_arrow" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_2"
+        android:background="@drawable/base_horizontal_line" >
+    </View>
+
+    <RelativeLayout
+        android:id="@+id/layout_blacklist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:minHeight="50dp"
+        android:padding="10dp" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="时间：" />
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/register_bottom_arrow" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_2"
+        android:background="@drawable/base_horizontal_line" >
+    </View>
+
+    <RelativeLayout
+        android:id="@+id/rl_switch_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:padding="10dip" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="加油站：" />
+
+        <ImageView
+            android:id="@+id/iv_open_notification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/on"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/iv_close_notification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/off"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_2"
+        android:background="@drawable/base_horizontal_line" >
+    </View>
+
+    <RelativeLayout
+        android:id="@+id/rl_switch_voice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:padding="10dip" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="加油类型：" />
+
+        <ImageView
+            android:id="@+id/iv_open_voice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/on"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/iv_close_voice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/off"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_2"
+        android:background="@drawable/base_horizontal_line" >
+    </View>
+
+    <RelativeLayout
+        android:id="@+id/rl_switch_vibrate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:padding="10dip" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="加油数目：" />
+
+        <ImageView
+            android:id="@+id/iv_open_vibrate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/on"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/iv_close_vibrate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/off"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_2"
+        android:background="@drawable/base_horizontal_line" >
+    </View>
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_action_bar_height"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:background="@drawable/btn_login_selector"
+        android:gravity="center"
+        android:text="提交"
+        android:textColor="@color/base_color_text_white"
+        android:textSize="@dimen/text_size_large" />
 </LinearLayout>

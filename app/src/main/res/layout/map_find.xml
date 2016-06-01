@@ -25,7 +25,8 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="请输入起点" >
+            android:hint="请输入起点"
+            android:text="工体北">
 
             <requestFocus />
         </EditText>
@@ -48,7 +49,8 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="请输入终点" >
+            android:hint="请输入终点"
+            android:text="天安门">
 
             <requestFocus />
         </EditText>

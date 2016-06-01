@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <name.wxz.modle.OilVehcleTitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></name.wxz.modle.OilVehcleTitleLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/input_bg"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center_vertical"
+            android:text="车牌"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edit_number"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:gravity="center_vertical"
+            android:hint="请输入车牌"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/input_bg"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center_vertical"
+            android:text="型号"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edit_vehcleclass"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:gravity="center_vertical"
+            android:hint="请输入车辆型号"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/input_bg"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center_vertical"
+            android:text="油型"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edit_oilclass"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:background="@color/transparent"
+            android:gravity="center_vertical"
+            android:hint="请输入加油类型"
+            />
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn_chat"
+        style="@style/Smile.Button.theme"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_marginRight="@dimen/activity_vertical_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:text="确定" />
+</LinearLayout>

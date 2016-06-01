@@ -72,6 +72,10 @@
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\csy_titlebar.xml"
     },
     {
+        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\oilvehcletitle.xml",
+        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\oilvehcletitle.xml"
+    },
+    {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_name.xml",
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\set_name.xml"
     },
@@ -94,6 +98,10 @@
     {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\oiltitle.xml",
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\oiltitle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\oil_addvehicle.xml",
+        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\oil_addvehicle.xml"
     },
     {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settitle.xml",

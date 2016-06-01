@@ -64,6 +64,7 @@
         <activity android:name="name.wxz.Set.SetName" />
         <activity android:name="name.wxz.Set.SetSex" />
         <activity android:name="name.wxz.Set.SetPassword" />
+
         <!-- 违规模块 -->
         <activity android:name="name.wxz.ui.WeizhangActivity" >
         </activity>
@@ -83,6 +84,15 @@
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAPFIND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="name.wxz.Oil.OilAddVehcle"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.OILFIND" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>

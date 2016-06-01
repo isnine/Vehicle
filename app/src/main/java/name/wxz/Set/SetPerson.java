@@ -22,7 +22,7 @@ public class SetPerson extends Activity {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.set_person);
-       name=(RelativeLayout)findViewById(R.id.layout_nick);
+        name=(RelativeLayout)findViewById(R.id.layout_nick);
         sex=(RelativeLayout)findViewById(R.id.layout_gender);
         password=(RelativeLayout)findViewById(R.id.layout_name);
         name.setOnClickListener(new View.OnClickListener() {

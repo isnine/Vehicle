@@ -31,7 +31,7 @@
         android:layout_height="37dp"
         android:layout_margin="5dip"
         android:background="@drawable/back_bg"
-        android:text="       设置"
+        android:text="添加车辆"
         android:textColor="#fff"
         android:layout_weight="0.09" />
 

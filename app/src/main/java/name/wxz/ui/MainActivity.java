@@ -17,6 +17,7 @@ import android.widget.TextView;
 
 import com.example.vehicle_networking.R;
 
+import cn.bmob.v3.BmobUser;
 import name.wxz.Set.SetPerson;
 
 public class MainActivity extends Activity implements NavigationDrawerFragment.NavigationDrawerCallbacks {
@@ -43,7 +44,7 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
 
 //        String username = (String) Person.getObjectByKey(mContext, "username");
 
-      //  user.setText("132");
+        //  user.setText("132");
         mNavigationDrawerFragment = (NavigationDrawerFragment) getFragmentManager()
                 .findFragmentById(R.id.navigation_drawer);
         mTitle = getTitle();
@@ -157,8 +158,63 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
             TextView user;
+            TextView name;
+            TextView sex;
+
+            TextView number;
+            TextView oilclass;
+            TextView vehcleclass;
+
             user=(TextView)rootView.findViewById(R.id.user);
-           // String username = (String) Person.getObjectByKey(MainActivity, "username");
+            name=(TextView)rootView.findViewById(R.id.name);
+            sex=(TextView)rootView.findViewById(R.id.sex);
+
+            number=(TextView)rootView.findViewById(R.id.number);
+            oilclass=(TextView)rootView.findViewById(R.id.oilclass);
+            vehcleclass=(TextView)rootView.findViewById(R.id.vehcleclass);
+
+            String username = (String) BmobUser.getObjectByKey(getActivity(), "username");
+            String nametext = (String) BmobUser.getObjectByKey(getActivity(), "name");
+            String sextext = (String) BmobUser.getObjectByKey(getActivity(), "sex");
+            user.setText("用户名："+username);
+            if(nametext==null){
+                name.setText("昵称：未设置");
+            }
+           else{
+                name.setText("昵称："+nametext);
+            }
+            if (sextext == null) {
+                sex.setText("性别：未设置");
+            }
+            else{
+                sex.setText("性别："+sextext);
+            }
+
+            String vehclenumbertext = (String) BmobUser.getObjectByKey(getActivity(), "vehclenumber1");
+            String vehcleclasstext = (String) BmobUser.getObjectByKey(getActivity(), "vehcleclass1");
+            String oilclasstext = (String) BmobUser.getObjectByKey(getActivity(), "oilclass1");
+
+            if(vehclenumbertext==null){
+                number.setText("车牌：未设置");
+            }
+            else
+            {
+                number.setText("车牌："+vehclenumbertext);
+            }
+
+
+            if(vehcleclasstext==null){
+                vehcleclass.setText("车型：未设置");
+            }
+            else{
+                vehcleclass.setText("车型："+vehcleclasstext);
+            }
+            if (oilclasstext== null) {
+                oilclass.setText("油型：未设置");
+            }
+            else{
+                oilclass.setText("油型："+oilclasstext);
+            }
             return rootView;
         }
 
@@ -166,7 +222,6 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
         public void onAttach(Activity activity) {
             super.onAttach(activity);
             ((MainActivity) activity).onSectionAttached(getArguments().getInt(ARG_SECTION_NUMBER));
-
         }
     }
     public void inti(){
