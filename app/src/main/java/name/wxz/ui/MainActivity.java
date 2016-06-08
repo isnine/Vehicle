@@ -18,6 +18,7 @@ import android.widget.TextView;
 import com.example.vehicle_networking.R;
 
 import cn.bmob.v3.BmobUser;
+import name.wxz.ericssonlabs.BarCodeTestActivity;
 
 public class MainActivity extends Activity implements NavigationDrawerFragment.NavigationDrawerCallbacks {
     public Context mContext = this;
@@ -82,7 +83,8 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
                 break;
             case 5:
                 mTitle = getString(R.string.title_section5);
-
+                Intent test=new Intent(this,BarCodeTestActivity.class);
+                startActivity(test);
                 break;
             case 6:
                 mTitle = getString(R.string.title_section6);

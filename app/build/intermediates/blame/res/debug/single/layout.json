@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\mapfindtitle.xml"
     },
     {
-        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_find.xml",
-        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\map_find.xml"
-    },
-    {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_sex.xml",
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\set_sex.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_find.xml",
+        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\map_find.xml"
     },
     {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
@@ -70,6 +70,10 @@
     {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\csy_activity_result.xml",
         "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\csy_activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
         "merged": "C:\\Users\\Nikcn\\StudioProjects\\Vehicle_networking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_person.xml",

@@ -64,6 +64,7 @@
         <activity android:name="name.wxz.Set.SetSex" />
         <activity android:name="name.wxz.Set.SetPassword" />
         <activity android:name="name.wxz.ui.FixActivity" />
+        <activity android:name="name.wxz.ericssonlabs.BarCodeTestActivity" />
 
         <!-- 违规模块 -->
         <activity android:name="name.wxz.ui.WeizhangActivity" >

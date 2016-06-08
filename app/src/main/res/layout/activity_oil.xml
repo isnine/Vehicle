@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:weightSum="1">
 
     <name.wxz.modle.OilTitleLayout
         android:layout_width="match_parent"
@@ -118,22 +119,28 @@
         android:background="@drawable/base_horizontal_line" >
     </View>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="加油数目"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal" />
+
     <RelativeLayout
         android:id="@+id/rl_switch_vibrate"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/btn_selector"
         android:padding="10dip" >
 
-        <TextView
-            style="@style/Smile.TextView._Black"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerVertical="true"
-            android:text="加油数目："
-            android:id="@+id/oilnumber" />
-
     </RelativeLayout>
+
+    <EditText
+        android:layout_width="381dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/Oilnumber"
+        android:layout_gravity="right" />
 
     <View
         android:id="@+id/view2"
@@ -151,4 +158,11 @@
         android:text="提交"
         android:textColor="@color/base_color_text_white"
         android:textSize="@dimen/text_size_large" />
+
+    <ImageView
+        android:layout_width="288dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/iv_qr_image"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.72" />
 </LinearLayout>
