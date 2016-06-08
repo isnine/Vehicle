@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/title_bg"
+    android:weightSum="1">
+
+    <Button
+        android:id="@+id/title_back"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dip"
+        android:background="@drawable/back_bg"
+        android:text="       返回"
+        android:textColor="#fff"
+        android:layout_weight="0.06" />
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.80"
+        android:gravity="center"
+        android:text="维护"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="56dp"
+        android:layout_height="37dp"
+        android:layout_margin="5dip"
+        android:background="@drawable/back_bg"
+        android:text="添加车辆 "
+        android:textColor="#fff"
+        android:layout_weight="0.09" />
+
+
+</LinearLayout>

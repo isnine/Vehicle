@@ -22,7 +22,8 @@
             style="@style/Smile.TextView._Black"
             android:layout_alignParentLeft="true"
             android:layout_centerVertical="true"
-            android:text="车牌：" />
+            android:text="车牌："
+            android:id="@+id/number" />
 
         <TextView
             android:id="@+id/tv_set_name"
@@ -52,7 +53,8 @@
             style="@style/Smile.TextView._Black"
             android:layout_alignParentLeft="true"
             android:layout_centerVertical="true"
-            android:text="时间：" />
+            android:text="时间："
+            android:id="@+id/time" />
 
         <TextView
             style="@style/Smile.TextView._Black"
@@ -81,27 +83,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
-            android:text="加油站：" />
+            android:text="加油站："
+            android:id="@+id/whereoil" />
 
-        <ImageView
-            android:id="@+id/iv_open_notification"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="10dp"
-            android:background="@drawable/on"
-            android:visibility="visible" />
-
-        <ImageView
-            android:id="@+id/iv_close_notification"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="10dp"
-            android:background="@drawable/off"
-            android:visibility="invisible" />
     </RelativeLayout>
 
     <View
@@ -122,27 +106,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
-            android:text="加油类型：" />
+            android:text="加油类型："
+            android:id="@+id/oilclass" />
 
-        <ImageView
-            android:id="@+id/iv_open_voice"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="10dp"
-            android:background="@drawable/on"
-            android:visibility="visible" />
-
-        <ImageView
-            android:id="@+id/iv_close_voice"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="10dp"
-            android:background="@drawable/off"
-            android:visibility="invisible" />
     </RelativeLayout>
 
     <View
@@ -164,27 +130,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
-            android:text="加油数目：" />
+            android:text="加油数目："
+            android:id="@+id/oilnumber" />
 
-        <ImageView
-            android:id="@+id/iv_open_vibrate"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="10dp"
-            android:background="@drawable/on"
-            android:visibility="visible" />
-
-        <ImageView
-            android:id="@+id/iv_close_vibrate"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="10dp"
-            android:background="@drawable/off"
-            android:visibility="invisible" />
     </RelativeLayout>
 
     <View

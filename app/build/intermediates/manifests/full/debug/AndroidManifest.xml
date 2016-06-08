@@ -63,6 +63,7 @@
         <activity android:name="name.wxz.Set.SetName" />
         <activity android:name="name.wxz.Set.SetSex" />
         <activity android:name="name.wxz.Set.SetPassword" />
+        <activity android:name="name.wxz.ui.FixActivity" />
 
         <!-- 违规模块 -->
         <activity android:name="name.wxz.ui.WeizhangActivity" >

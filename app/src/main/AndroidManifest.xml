@@ -72,6 +72,7 @@
 
         <activity  android:name="name.wxz.Set.SetPassword"></activity>
 
+        <activity  android:name="name.wxz.ui.FixActivity"></activity>
 
         <!--违规模块-->
         <activity android:name="name.wxz.ui.WeizhangActivity" >
