@@ -18,7 +18,7 @@ import com.google.zxing.WriterException;
 
 import cn.bmob.v3.BmobUser;
 import name.wxz.Oil.OilAddVehcle;
-import name.wxz.encoding.EncodingHandler;
+import name.wxz.Oil.EncodingHandler;
 
 /**
  * Created by Nikcn on 2016/5/10.
@@ -82,12 +82,17 @@ public class OilActivity extends Activity {
 
             @Override
             public void onClick(View v) {
+                if (vehclenumbertext.equals(null) || oilclasstext.equals(null) || Oilnumber.getText().toString().equals("")){
+                    Toast.makeText(OilActivity.this, "请输入车牌，油型，加油数目", Toast.LENGTH_SHORT).show();
+                }
+                else{
                 try {
                     String contentString = "车牌:"+vehclenumbertext +"   油型："+oilclasstext+"   加油数目："+ Oilnumber.getText().toString();
                     if (!contentString.equals("")) {
                         //根据字符串生成二维码图片并显示在界面上，第二个参数为图片的大小（350*350）
                         Bitmap qrCodeBitmap = EncodingHandler.createQRCode(contentString, 500);
                         qrImgImageView.setImageBitmap(qrCodeBitmap);
+                        Toast.makeText(OilActivity.this, "二维码已生成，请前往加油站扫描此二维码", Toast.LENGTH_SHORT).show();
                     }else {
                         Toast.makeText(OilActivity.this, "Text can not be empty", Toast.LENGTH_SHORT).show();
                     }
@@ -95,8 +100,9 @@ public class OilActivity extends Activity {
                 } catch (WriterException e) {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
-                }
+                }}
             }
+
         });
 
 

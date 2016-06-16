@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:weightSum="1">
+    android:weightSum="1"
+    android:background="@drawable/login_bg">
 
     <name.wxz.modle.OilTitleLayout
         android:layout_width="match_parent"
@@ -136,22 +137,29 @@
 
     </RelativeLayout>
 
-    <EditText
-        android:layout_width="381dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/Oilnumber"
-        android:layout_gravity="right" />
-
     <View
         android:id="@+id/view2"
         android:layout_width="match_parent"
         android:layout_height="@dimen/base_line_width_2"
         android:background="@drawable/base_horizontal_line" >
     </View>
+
+    <EditText
+        android:id="@+id/Oilnumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:hint="请输入加油数目"
+        android:paddingLeft="15dip"
+        android:textColorHint="#ffdddddd"
+        android:autoText="false"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.07" />
+
     <Button
         android:id="@+id/btn_login"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/base_action_bar_height"
+        android:layout_height="wrap_content"
         android:layout_margin="@dimen/activity_vertical_margin"
         android:background="@drawable/btn_login_selector"
         android:gravity="center"
@@ -160,9 +168,9 @@
         android:textSize="@dimen/text_size_large" />
 
     <ImageView
-        android:layout_width="288dp"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
         android:id="@+id/iv_qr_image"
         android:layout_gravity="center_horizontal"
-        android:layout_weight="0.72" />
+        android:layout_weight="0.28" />
 </LinearLayout>

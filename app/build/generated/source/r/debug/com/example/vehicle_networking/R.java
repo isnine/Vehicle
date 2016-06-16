@@ -119,7 +119,7 @@ public final class R {
         public static final int title_bg=0x7f02002e;
     }
     public static final class id {
-        public static final int Oilnumber=0x7f09001e;
+        public static final int Oilnumber=0x7f09001f;
         public static final int action_example=0x7f090076;
         public static final int action_settings=0x7f090075;
         public static final int btnBack=0x7f09004a;
@@ -232,7 +232,7 @@ public final class R {
         public static final int vehcleclass2=0x7f090004;
         public static final int vehcleclass3=0x7f090007;
         public static final int view1=0x7f09001b;
-        public static final int view2=0x7f09001f;
+        public static final int view2=0x7f09001e;
         public static final int whereoil=0x7f090018;
         public static final int wz_addr=0x7f090047;
         public static final int wz_info=0x7f090049;

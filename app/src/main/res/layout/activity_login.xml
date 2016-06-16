@@ -53,7 +53,8 @@
                 android:hint="@string/login_password_hint"
                 android:inputType="textPassword"
                 android:paddingLeft="15dip"
-                android:textColorHint="#ffdddddd" />
+                android:textColorHint="#ffdddddd"
+                android:autoText="false" />
         </LinearLayout>
 
         <Button
