@@ -23,8 +23,7 @@
         android:name="cn.bmob.permission.push"
         android:protectionLevel="normal" />
 
-    <uses-permission android:name="cn.bmob.permission.push" />
- <!-- 添加自定义的权限 -->
+    <uses-permission android:name="cn.bmob.permission.push" /> <!-- 添加自定义的权限 -->
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
@@ -64,7 +63,6 @@
         <activity android:name="name.wxz.Set.SetSex" />
         <activity android:name="name.wxz.Set.SetPassword" />
         <activity android:name="name.wxz.ui.FixActivity" />
-        <activity android:name="name.wxz.ericssonlabs.BarCodeTestActivity" />
 
         <!-- 违规模块 -->
         <activity android:name="name.wxz.ui.WeizhangActivity" >

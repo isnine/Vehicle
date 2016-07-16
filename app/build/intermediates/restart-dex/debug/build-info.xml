@@ -4,28 +4,28 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="85642654569960" >
+    timestamp="18055473804177" >
 
     <task
         name="javac"
-        duration="920" />
+        duration="437" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="895" />
+        duration="261" />
     <task
         name="verifier"
-        duration="320" />
+        duration="54" />
 
     <artifact
-        location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\outputs\apk\app-debug.apk"
+        location="/Users/user/Documents/Andoridwork/Vehicle/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="85642654569960" >
+    <build timestamp="18055473804177" >
         <artifact
-            location="C:\Users\Nikcn\StudioProjects\Vehicle_networking\app\build\outputs\apk\app-debug.apk"
+            location="/Users/user/Documents/Andoridwork/Vehicle/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 
