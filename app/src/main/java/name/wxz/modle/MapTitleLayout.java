@@ -37,7 +37,7 @@ public class MapTitleLayout extends LinearLayout {
 //                Context context;
 //			//	super(getcontext);
 //                Intent intent=new Intent("name.wxz.ui.MapFind");
-				Intent openMainActivity=new Intent("android.intent.action.MAPFIND");
+				Intent openMainActivity=new Intent("android.intent.action.MAPOIL");
 				getContext().startActivity(openMainActivity);
 			//	((MainActivity) activity).startActivity(intent);
 

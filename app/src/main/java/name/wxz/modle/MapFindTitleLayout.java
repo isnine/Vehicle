@@ -28,7 +28,8 @@ public class MapFindTitleLayout extends LinearLayout {
 		titlefind.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
-
+//				Intent openMainActivity=new Intent("android.intent.action.MAPOIL");
+//				getContext().startActivity(openMainActivity);
             }
 
 		});

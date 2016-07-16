@@ -31,7 +31,7 @@
         android:layout_height="37dp"
         android:layout_margin="5dip"
         android:background="@drawable/back_bg"
-        android:text="       导航"
+        android:text="    加油站"
         android:textColor="#fff"
         android:layout_weight="0.09" />
 

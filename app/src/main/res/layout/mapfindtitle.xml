@@ -31,7 +31,7 @@
         android:layout_height="37dp"
         android:layout_margin="5dip"
         android:background="@drawable/back_bg"
-        android:text="       "
+        android:text=" "
         android:textColor="#fff"
         android:layout_weight="0.09" />
 

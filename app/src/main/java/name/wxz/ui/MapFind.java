@@ -142,8 +142,8 @@ public class MapFind extends Activity implements BaiduMap.OnMapClickListener,
         EditText editSt = (EditText) findViewById(R.id.start);
         EditText editEn = (EditText) findViewById(R.id.end);
         // 设置起终点信息，对于tranist search 来说，城市名无意义
-        PlanNode stNode = PlanNode.withCityNameAndPlaceName("北京", editSt.getText().toString());
-        PlanNode enNode = PlanNode.withCityNameAndPlaceName("北京", editEn.getText().toString());
+        PlanNode stNode = PlanNode.withCityNameAndPlaceName("长沙", editSt.getText().toString());
+        PlanNode enNode = PlanNode.withCityNameAndPlaceName("长沙", editEn.getText().toString());
 
         // 实际使用中请对起点终点城市进行正确的设定
         if (v.getId() == R.id.drive) {

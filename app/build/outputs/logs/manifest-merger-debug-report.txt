@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:2:1-124:12
+ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:2:1-132:12
 	package
 		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:3:5-45
 		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
@@ -100,7 +100,7 @@ ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifes
 	android:name
 		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:38:22-70
 application
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:42:5-122:19
+ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:42:5-130:19
 	android:label
 		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:46:9-41
 	android:allowBackup
@@ -205,29 +205,41 @@ category#android.intent.category.DEFAULT
 ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:99:17-76
 	android:name
 		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:99:27-73
-activity#name.wxz.Oil.OilAddVehcle
+activity#name.wxz.Map.PoiSearchDemo
 ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:103:9-110:20
 	android:label
 		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:105:13-45
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:104:13-53
-intent-filter#android.intent.action.OILFIND+android.intent.category.DEFAULT
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:104:13-54
+intent-filter#android.intent.action.MAPOIL+android.intent.category.DEFAULT
 ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:106:13-109:29
+action#android.intent.action.MAPOIL
+ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:107:17-71
+	android:name
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:107:25-68
+activity#name.wxz.Oil.OilAddVehcle
+ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:111:9-118:20
+	android:label
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:113:13-45
+	android:name
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:112:13-53
+intent-filter#android.intent.action.OILFIND+android.intent.category.DEFAULT
+ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:114:13-117:29
 action#android.intent.action.OILFIND
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:107:17-72
+ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:115:17-72
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:107:25-69
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:115:25-69
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:112:9-114:64
+ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:120:9-122:64
 	android:value
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:114:13-61
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:122:13-61
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:113:13-52
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:121:13-52
 service#com.baidu.location.f
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:117:9-121:19
+ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:125:9-129:19
 	android:enabled
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:119:13-35
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:127:13-35
 	android:process
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:120:13-38
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:128:13-38
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:118:13-48
+		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:126:13-48
