@@ -67,6 +67,7 @@ public class OilAddVehcle extends Activity {
             if (TextUtils.isEmpty(number)) {
                 toast("车牌不能为空");
                 return;
+
             }
             if (TextUtils.isEmpty(vehcleclass)) {
                 toast("车辆类型不能为空");
