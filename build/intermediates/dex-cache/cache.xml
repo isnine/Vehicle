@@ -2,123 +2,123 @@
 <items version="2" >
 
     <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/okhttp-2.4.0.jar"
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-2.4.0_5e874c778fc53e705bda9f1bb8d6f4b943955d00/classes.dex" />
+        sha1="0018315d3a198e9c63fde5f898ad7f2eeb50ba61">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a5cc2462584da69cb898ea78bdaf3e5175010f8e/classes.dex" />
     </item>
     <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/zxing.jar"
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/org.apache.http.legacy.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_d4ff595c8669bc1fa824b2612d3249472127c7bf/classes.dex" />
-    </item>
-    <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/baidumapapi_util_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="77f23565c6bc14129d2ec152c809161343cdeaad">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_util_v3_7_3_3c859f4c111a880e39f72d159ea0a102b9c11eff/classes.dex" />
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_f9e385ac568440022e2dc8e3aa443e89dc37f2c3/classes.dex" />
     </item>
     <item
         jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_f6d6bc3e56c2cc45efb692c042beefea44039a89/classes.dex" />
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_f6d6bc3e56c2cc45efb692c042beefea44039a89/classes.dex" />
     </item>
     <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="12f91a13598336727f1ca7bf5da65365d25de3a4">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4cfdf8a91cb0ffcfa6a9b98f0b6fd77bb593d0d3/classes.dex" />
+        sha1="94855005d927787d23bc9ae7511d91a59813d042">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8116c5c326c163105ab5aa9f4b7851de8c455386/classes.dex" />
     </item>
     <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/zxing.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="37957d9e619b3eb39774b12be9896f45bb6e31df">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_42862d594ef467cdad0d3773648958cb737ee3de/classes.dex" />
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_ae7b098d4fb6658a6cfeb792ef76aaa507b48167/classes.dex" />
     </item>
     <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/okio-1.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.4.0_c896d420398705c431c3f9c5ef6ca78b22df0946/classes.dex" />
-    </item>
-    <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/baidumapapi_cloud_v3_7_3.jar"
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/baidumapapi_cloud_v3_7_3.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="1bfd60b172276bd6c127e1b020578ba8943cb817">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_cloud_v3_7_3_80fe64d3bd0610bdec4e75daf8b92b6f973c826f/classes.dex" />
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_cloud_v3_7_3_6b7fa67985f0933970de88aeec25cd3c88e45a2c/classes.dex" />
     </item>
     <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/locSDK_6.13.jar"
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/baidumapapi_util_v3_7_3.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_6.13_cf1512de460f765774677e9dc171c36371f13cb9/classes.dex" />
+        sha1="77f23565c6bc14129d2ec152c809161343cdeaad">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_util_v3_7_3_28f28280051f3c47a724c45d97028c77c7d256bc/classes.dex" />
     </item>
     <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/BmobSDK_V3.4.6_0415.jar"
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/okio-1.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="41f54bb2846705eea0de5df48ddbcba378bd54e5">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/BmobSDK_V3.4.6_0415_17e7eda429a421e140282cc6976acf48e51b318b/classes.dex" />
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.4.0_b483e599d0c70fc079870c3afa61b3a5fd2a2bbf/classes.dex" />
     </item>
     <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/baidumapapi_base_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="26aec1b74c9e42fb4f27432b79cf9e65365f5612">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_base_v3_7_3_997081128cd379c1571cc0bda4b0752ff966e16f/classes.dex" />
-    </item>
-    <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/baidumapapi_radar_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="285cb61966027336b8cc418a6a3ec159039aa0c2">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_radar_v3_7_3_6f3133a92108d58ce9dbf3eab75bfa4eed79704a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/Bmob_Push_V0.8beta_20160420.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/Bmob_Push_V0.8beta_20160420_c977e9c28e9950a138c88f20222f3b3dac6b694d/classes.dex" />
-    </item>
-    <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/baidumapapi_search_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="dea8cea1cf2639d2a92718333f47f5a7bef25b17">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_search_v3_7_3_4da21a57719e669b5fb6f02c45d05227f8100ed3/classes.dex" />
-    </item>
-    <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/org.apache.http.legacy.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_56c88991d35d0b0eac09fe968ebb7cf6e509d60f/classes.dex" />
-    </item>
-    <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/baidumapapi_map_v3_7_3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="b18498f0ff59163574118729da41b7e89971d713">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_map_v3_7_3_8f90fb212ce9309b0bc8bfb665bb07f8e41947e3/classes.dex" />
-    </item>
-    <item
-        jar="/Users/user/Documents/Andoridwork/Vehicle/app/libs/weizhang_sdk.jar"
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/weizhang_sdk.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="7a43c225fe1c4a8c20d3fe112738d88f13909a47">
-        <dex dex="/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/weizhang_sdk_7ebbafef88c0c790cb09a872a415e5cebf685c1f/classes.dex" />
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/weizhang_sdk_754b36f9dd51b0f9d6ac9fd580e7d869ab77c7e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/baidumapapi_base_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="26aec1b74c9e42fb4f27432b79cf9e65365f5612">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_base_v3_7_3_090a75a55dba9b7519ca88077ddca6c7b95ed195/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/baidumapapi_radar_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="285cb61966027336b8cc418a6a3ec159039aa0c2">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_radar_v3_7_3_70f29e68c75f593b1c74f5aff957c3f14cfaeab8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/Bmob_Push_V0.8beta_20160420.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/Bmob_Push_V0.8beta_20160420_d569298534f1e26331bf9b9d4a5b280c8396a3a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/baidumapapi_search_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dea8cea1cf2639d2a92718333f47f5a7bef25b17">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_search_v3_7_3_9ae4ded91f753b947abf2791e5e8056f55bab07a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/BmobSDK_V3.4.6_0415.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="41f54bb2846705eea0de5df48ddbcba378bd54e5">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/BmobSDK_V3.4.6_0415_453768eb440ad5e122668550a90defd7a078f3d3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/baidumapapi_map_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b18498f0ff59163574118729da41b7e89971d713">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_map_v3_7_3_8965824ca28f094349646167fe88f06e04d6d984/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/locSDK_6.13.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_6.13_69c836d44c29be43344bcfd006f4d7250267001e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Documents/Androidwork/Vehicle/app/libs/okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-2.4.0_bcb3f1acf44388f04782c133f047bfecb330d40d/classes.dex" />
     </item>
 
 </items>

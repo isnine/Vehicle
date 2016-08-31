@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/values/values.xml",
+        "outputFile": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 206
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 317
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 373
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 425
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 489
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 532
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 582
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 641
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 699
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 758
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 861
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 919
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 963
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1011
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1056
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 1104
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 1151
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 1197
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 1246
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 1291
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 1337
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 1384
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 1429
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 1482
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 1528
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 1581
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 1627
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 1681
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 1737
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 1781
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 1830
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 1878
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/colors.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 1936
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 1992
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 2049
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 97,
@@ -752,7 +752,7 @@
                     "endOffset": 2098
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 2141
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 2185
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 2229
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 2275
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 2320
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 2360
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 2400
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 2443
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 2488
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 2531
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -961,7 +961,7 @@
                     "endOffset": 2575
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -980,7 +980,7 @@
                     "endOffset": 2621
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -999,7 +999,7 @@
                     "endOffset": 2677
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1018,7 +1018,7 @@
                     "endOffset": 2726
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1037,7 +1037,7 @@
                     "endOffset": 2773
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 55,
@@ -1056,7 +1056,7 @@
                     "endOffset": 2809
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1075,7 +1075,7 @@
                     "endOffset": 2862
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1094,7 +1094,7 @@
                     "endOffset": 2904
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -1113,7 +1113,7 @@
                     "endOffset": 2948
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -1132,7 +1132,7 @@
                     "endOffset": 2990
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -1151,7 +1151,7 @@
                     "endOffset": 3030
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -1170,7 +1170,7 @@
                     "endOffset": 3079
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -1189,7 +1189,7 @@
                     "endOffset": 3119
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -1208,7 +1208,7 @@
                     "endOffset": 3160
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1227,7 +1227,7 @@
                     "endOffset": 3220
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -1246,7 +1246,7 @@
                     "endOffset": 3267
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1265,7 +1265,7 @@
                     "endOffset": 3314
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -1284,7 +1284,7 @@
                     "endOffset": 3361
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 3414
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -1322,7 +1322,7 @@
                     "endOffset": 3455
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -1341,7 +1341,7 @@
                     "endOffset": 3500
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1360,7 +1360,7 @@
                     "endOffset": 3548
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -1379,7 +1379,7 @@
                     "endOffset": 3596
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -1398,7 +1398,7 @@
                     "endOffset": 3649
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1417,7 +1417,7 @@
                     "endOffset": 3686
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1436,7 +1436,7 @@
                     "endOffset": 3732
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1455,7 +1455,7 @@
                     "endOffset": 3778
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1474,7 +1474,7 @@
                     "endOffset": 3832
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1493,7 +1493,7 @@
                     "endOffset": 3887
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1512,7 +1512,7 @@
                     "endOffset": 3929
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1531,7 +1531,7 @@
                     "endOffset": 3985
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1550,7 +1550,7 @@
                     "endOffset": 4025
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -1569,7 +1569,7 @@
                     "endOffset": 4101
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1588,7 +1588,7 @@
                     "endOffset": 4175
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1607,7 +1607,7 @@
                     "endOffset": 4215
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1626,7 +1626,7 @@
                     "endOffset": 4264
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1645,7 +1645,7 @@
                     "endOffset": 4313
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1664,7 +1664,7 @@
                     "endOffset": 4359
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -1683,7 +1683,7 @@
                     "endOffset": 4403
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -1702,7 +1702,7 @@
                     "endOffset": 4450
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -1721,7 +1721,7 @@
                     "endOffset": 4493
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -1740,7 +1740,7 @@
                     "endOffset": 4534
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -1759,7 +1759,7 @@
                     "endOffset": 4580
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1778,7 +1778,7 @@
                     "endOffset": 4626
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1797,7 +1797,7 @@
                     "endOffset": 4672
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1816,7 +1816,7 @@
                     "endOffset": 4718
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1835,7 +1835,7 @@
                     "endOffset": 4764
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1854,7 +1854,7 @@
                     "endOffset": 4810
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1873,7 +1873,7 @@
                     "endOffset": 4856
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/strings.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1893,7 +1893,7 @@
                     "endOffset": 5147
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1914,7 +1914,7 @@
                     "endOffset": 5307
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1935,7 +1935,7 @@
                     "endOffset": 5642
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 12,
@@ -1956,7 +1956,7 @@
                     "endOffset": 6194
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1977,7 +1977,7 @@
                     "endOffset": 6357
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
@@ -1998,7 +1998,7 @@
                     "endOffset": 6544
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -2019,7 +2019,7 @@
                     "endOffset": 6704
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
@@ -2040,7 +2040,7 @@
                     "endOffset": 6862
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 4,
@@ -2061,7 +2061,7 @@
                     "endOffset": 6982
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
@@ -2082,7 +2082,7 @@
                     "endOffset": 7203
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 4,
@@ -2103,7 +2103,7 @@
                     "endOffset": 7425
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
@@ -2124,7 +2124,7 @@
                     "endOffset": 7646
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 4,
@@ -2145,7 +2145,7 @@
                     "endOffset": 7743
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -2166,7 +2166,7 @@
                     "endOffset": 7872
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 132,
                         "startColumn": 4,
@@ -2187,7 +2187,7 @@
                     "endOffset": 7999
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
@@ -2208,7 +2208,7 @@
                     "endOffset": 8126
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 4,
@@ -2229,7 +2229,7 @@
                     "endOffset": 8255
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 4,
@@ -2250,7 +2250,7 @@
                     "endOffset": 8424
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 4,
@@ -2271,7 +2271,7 @@
                     "endOffset": 8552
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -2292,7 +2292,7 @@
                     "endOffset": 8782
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -2313,7 +2313,7 @@
                     "endOffset": 8910
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -2334,7 +2334,7 @@
                     "endOffset": 9265
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -2355,7 +2355,7 @@
                     "endOffset": 9631
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -2376,7 +2376,7 @@
                     "endOffset": 10119
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -2397,7 +2397,7 @@
                     "endOffset": 10258
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values/styles.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,

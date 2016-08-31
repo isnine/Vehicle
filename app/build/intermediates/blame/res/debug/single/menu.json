@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/menu/global.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/menu/global.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/menu/global.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/menu/main.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/menu/main.xml"
     }
 ]

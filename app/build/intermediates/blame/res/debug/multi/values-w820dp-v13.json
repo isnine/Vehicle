@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

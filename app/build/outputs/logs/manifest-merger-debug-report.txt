@@ -1,245 +1,245 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:2:1-132:12
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:2:1-132:12
 	package
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:3:5-45
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:7:5-9:41
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:11:5-67
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:11:22-64
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:12:5-76
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:12:22-73
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:12:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:13:5-79
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:13:22-76
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:14:5-75
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:14:5-75
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:14:22-72
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:14:22-72
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:15:5-81
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:15:22-78
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:15:22-78
 uses-permission#android.permission.READ_LOGS
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:16:5-68
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:16:5-68
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:16:22-65
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:16:22-65
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:17:5-66
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:17:5-66
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:17:22-63
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:17:22-63
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:18:5-81
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:18:22-78
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:18:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:19:5-79
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:19:5-79
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:19:22-76
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:19:22-76
 permission#cn.bmob.permission.push
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:23:5-102
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:23:5-102
 	android:protectionLevel
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:23:17-49
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:23:17-49
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:23:50-88
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:23:50-88
 uses-permission#cn.bmob.permission.push
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:24:5-62
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:24:5-62
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:24:22-60
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:24:22-60
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:25:5-68
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:25:22-65
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:25:22-65
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:26:5-81
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:26:5-81
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:26:22-78
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:26:22-78
 uses-permission#android.permission.RECEIVE_USER_PRESENT
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:27:5-79
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:27:5-79
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:27:22-76
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:27:22-76
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:32:5-85
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:32:5-85
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:32:22-82
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:32:22-82
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:34:5-76
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:34:5-76
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:34:22-73
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:34:22-73
 uses-permission#android.permission.GET_TASKS
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:36:5-68
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:36:5-68
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:36:22-65
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:36:22-65
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:38:5-73
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:38:5-73
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:38:22-70
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:38:22-70
 application
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:42:5-130:19
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:42:5-130:19
 	android:label
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:46:9-41
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:46:9-41
 	android:allowBackup
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:44:9-35
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:44:9-35
 	android:icon
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:45:9-45
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:45:9-45
 	android:theme
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:47:9-40
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:47:9-40
 activity#name.wxz.ui.LoginActivity
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:48:9-56:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:48:9-56:20
 	android:label
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:50:13-45
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:50:13-45
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:49:13-53
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:49:13-53
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:51:13-55:29
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:51:13-55:29
 action#android.intent.action.MAIN
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:52:17-69
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:52:17-69
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:52:25-66
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:52:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:54:17-77
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:54:27-74
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:54:27-74
 activity#name.wxz.ui.MainActivity
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:57:9-71
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:57:9-71
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:57:20-59
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:57:20-59
 activity#name.wxz.ui.RegisterActivity
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:59:9-75
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:59:9-75
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:59:20-63
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:59:20-63
 activity#name.wxz.ui.OilActivity
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:61:9-70
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:61:9-70
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:61:20-58
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:61:20-58
 activity#name.wxz.ui.MapActivity
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:63:9-70
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:63:9-70
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:63:20-58
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:63:20-58
 activity#name.wxz.ui.SetActivity
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:65:9-70
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:65:9-70
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:65:20-58
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:65:20-58
 activity#name.wxz.Set.SetPerson
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:67:9-69
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:67:9-69
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:67:20-57
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:67:20-57
 activity#name.wxz.Set.SetName
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:69:9-67
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:69:9-67
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:69:20-55
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:69:20-55
 activity#name.wxz.Set.SetSex
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:71:9-66
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:71:9-66
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:71:20-54
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:71:20-54
 activity#name.wxz.Set.SetPassword
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:73:9-71
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:73:9-71
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:73:20-59
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:73:20-59
 activity#name.wxz.ui.FixActivity
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:75:9-70
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:75:9-70
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:75:20-58
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:75:20-58
 activity#name.wxz.ui.WeizhangActivity
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:80:9-81:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:80:9-81:20
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:80:19-62
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:80:19-62
 activity#name.wxz.weizhang.ShortNameList
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:82:9-83:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:82:9-83:20
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:82:19-65
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:82:19-65
 activity#name.wxz.weizhang.ProvinceList
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:84:9-85:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:84:9-85:20
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:84:19-64
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:84:19-64
 activity#name.wxz.weizhang.CityList
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:86:9-87:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:86:9-87:20
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:86:19-60
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:86:19-60
 activity#name.wxz.weizhang.WeizhangResult
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:88:9-89:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:88:9-89:20
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:88:19-66
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:88:19-66
 service#com.cheshouye.api.client.WeizhangIntentService
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:91:9-82
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:91:9-82
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:91:18-79
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:91:18-79
 activity#name.wxz.ui.MapFind
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:94:9-101:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:94:9-101:20
 	android:label
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:96:13-45
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:96:13-45
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:95:13-47
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:95:13-47
 intent-filter#android.intent.action.MAPFIND+android.intent.category.DEFAULT
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:97:13-100:29
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:97:13-100:29
 action#android.intent.action.MAPFIND
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:98:17-72
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:98:17-72
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:98:25-69
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:98:25-69
 category#android.intent.category.DEFAULT
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:99:17-76
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:99:17-76
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:99:27-73
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:99:27-73
 activity#name.wxz.Map.PoiSearchDemo
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:103:9-110:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:103:9-110:20
 	android:label
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:105:13-45
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:105:13-45
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:104:13-54
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:104:13-54
 intent-filter#android.intent.action.MAPOIL+android.intent.category.DEFAULT
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:106:13-109:29
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:106:13-109:29
 action#android.intent.action.MAPOIL
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:107:17-71
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:107:17-71
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:107:25-68
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:107:25-68
 activity#name.wxz.Oil.OilAddVehcle
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:111:9-118:20
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:111:9-118:20
 	android:label
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:113:13-45
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:113:13-45
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:112:13-53
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:112:13-53
 intent-filter#android.intent.action.OILFIND+android.intent.category.DEFAULT
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:114:13-117:29
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:114:13-117:29
 action#android.intent.action.OILFIND
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:115:17-72
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:115:17-72
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:115:25-69
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:115:25-69
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:120:9-122:64
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:120:9-122:64
 	android:value
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:122:13-61
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:122:13-61
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:121:13-52
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:121:13-52
 service#com.baidu.location.f
-ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:125:9-129:19
+ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:125:9-129:19
 	android:enabled
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:127:13-35
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:127:13-35
 	android:process
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:128:13-38
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:128:13-38
 	android:name
-		ADDED from /Users/user/Documents/Andoridwork/Vehicle/app/src/main/AndroidManifest.xml:126:13-48
+		ADDED from /Users/user/Documents/Androidwork/Vehicle/app/src/main/AndroidManifest.xml:126:13-48

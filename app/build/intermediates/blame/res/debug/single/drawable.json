@@ -1,50 +1,50 @@
 [
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_listitem_result.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_listitem_result.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/btn_login_selector.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/btn_login_selector.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_btn.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_btn.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_select.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_select.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_listitem_shortname.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_listitem_shortname.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_textbox.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_textbox.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_form_row.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_form_row.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_btn.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_btn.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_textbox.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_textbox.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_form.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_form.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/btn_login_selector.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/btn_login_selector.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/btn_logout_selector.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/btn_logout_selector.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_listitem_citys.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_listitem_citys.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_form_row.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_form_row.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_select.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_select.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_listitem_shortname.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_listitem_shortname.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_btn_light.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_btn_light.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_btn_light.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_btn_light.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/btn_logout_selector.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/btn_logout_selector.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_listitem_result.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_listitem_result.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_form.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/csy_form.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/csy_listitem_citys.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/csy_listitem_citys.xml"
     },
     {
-        "merged": "/Users/user/Documents/Andoridwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/btn_selector.xml",
-        "source": "/Users/user/Documents/Andoridwork/Vehicle/app/src/main/res/drawable/btn_selector.xml"
+        "merged": "/Users/user/Documents/Androidwork/Vehicle/app/build/intermediates/res/merged/debug/drawable/btn_selector.xml",
+        "source": "/Users/user/Documents/Androidwork/Vehicle/app/src/main/res/drawable/btn_selector.xml"
     }
 ]

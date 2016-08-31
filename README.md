@@ -1,6 +1,6 @@
 # “车联网”移动应用软件
 ## 简介
-* 开发者 Nine 
+* 开发团队Let's try 团队成员(1人) Nine 
 * 邮箱地址：wxz@wxz.name
 * 个人博客: [www.wxz.name](https://www.wxz.name)
 * 大一学生 一个人开发的 很多地方做的不好 见笑
