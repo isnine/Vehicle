@@ -1,16 +1,16 @@
 # “车联网”移动应用软件
 ## 简介
-开发者 Nine 
-邮箱地址：wxz@wxz.name
-个人博客: [www.wxz.name](www.wxz.name)
-大一学生 一个人开发的 很多地方做的不好 见笑
-方便的话 希望可以点下Star 鼓励下
-如果可以的话 也希望学长们能在issue中给点IOS/Android方面的学习意见
+* 开发者 Nine 
+* 邮箱地址：wxz@wxz.name
+* 个人博客: [www.wxz.name](www.wxz.name)
+* 大一学生 一个人开发的 很多地方做的不好 见笑
+* 方便的话 希望可以点下Star 鼓励下
+* 如果可以的话 也希望学长们能在issue中给点IOS/Android方面的学习意见
 ## 界面浏览
 ### 登录界面
-![index](https://o90qqsid7.qnssl.com/index-1.png?imageView2/2/w/300/h/560/interlace/0/q/60)
+![index](https://o90qqsid7.qnssl.com/index-1.png?imageView2/2/w/300/h/560/interlace/0/q/60) ![图片 1](https://o90qqsid7.qnssl.com/%E5%9B%BE%E7%89%87%201.png?imageView2/2/w/300/h/560/interlace/0/q/60)
 ### 注册界面
-![图片 1](https://o90qqsid7.qnssl.com/%E5%9B%BE%E7%89%87%201.png?imageView2/2/w/300/h/560/interlace/0/q/60)
+
 ### 主界面
 ![main](https://o90qqsid7.qnssl.com/main.png?imageView2/2/w/300/h/560/interlace/0/q/60)
 ### 添加车辆
