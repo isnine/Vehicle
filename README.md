@@ -3,7 +3,7 @@
 * 开发团队Let's try 团队成员(1人) Nine 
 * 邮箱地址：wxz@wxz.name
 * 个人博客: [www.wxz.name](https://www.wxz.name)
-* 大一学生 一个人开发的 很多地方做的不好 见笑
+* __大一学生 一个人开发的 很多地方做的不好 见笑__
 * 方便的话 希望可以点下__Star__ 鼓励下
 * 如果可以的话 也希望学长们能在issues中给点IOS/Android方面的学习意见
 * APP没有获奖 大二继续努力
